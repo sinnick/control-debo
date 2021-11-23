@@ -1,0 +1,8432 @@
+[
+  {
+    "codigoCliente": 1,
+    "nombre": "COMERCIAL MANITTA HNOS. ACCESO S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 2,
+    "nombre": "BRUGNOLI Y PINCHEIRA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 3,
+    "nombre": "HEKAR S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 4,
+    "nombre": "RODEO DEL MEDIO SERGIO ASTIE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 5,
+    "nombre": "CLOP SAN SERGIO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 6,
+    "nombre": "FILIPPINI HNOS. S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 7,
+    "nombre": "CLOP BELTRAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 8,
+    "nombre": "IGNIS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 9,
+    "nombre": "COMERCIAL ARGON S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 11,
+    "nombre": "GRAL BELGRANO DE CHAPINI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 12,
+    "nombre": "ISIDORO ALONSO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 13,
+    "nombre": "PARQUE COMBUSTIBLE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 15,
+    "nombre": "SERVICOM S.C.C.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 16,
+    "nombre": "GRAL SAN MARTIN SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 17,
+    "nombre": "ABRAHAM HNOS.  S.A JUNIN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 18,
+    "nombre": "GRAL. LAS HERAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 19,
+    "nombre": "FRIAS OSVALDO RUBEN AV. ORIGONE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 20,
+    "nombre": "SAN MIGUEL (ARTURO SANCHEZ)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 21,
+    "nombre": "SURAGRO DE JB PAPAGNI-M. MECA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 22,
+    "nombre": "SERVICIOS JYF  S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 23,
+    "nombre": "RAPISUR S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 24,
+    "nombre": "OCTANO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 25,
+    "nombre": "PETRO NORTE S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 26,
+    "nombre": "PUNTO MITRE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 27,
+    "nombre": "RUTA 188 SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 28,
+    "nombre": "ABRAHAM HNOS LA VARIANTE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 29,
+    "nombre": "D-COM S.R.L. (REINERI SEBASTIAN J Y OTROS SH)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 30,
+    "nombre": "PETRO OESTE S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 31,
+    "nombre": "CAR-GAS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 32,
+    "nombre": "SERVICENTRO SAN RAFAEL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 33,
+    "nombre": "DON FRANCISCO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 34,
+    "nombre": "LOS SAUCES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 35,
+    "nombre": "ROSSANO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 36,
+    "nombre": "NG EL LIBERTADOR SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 37,
+    "nombre": "ARIES COMCO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 38,
+    "nombre": "ARIES COMCO S.R.L. II",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 39,
+    "nombre": "BEST & BEST ESQUEL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 40,
+    "nombre": "ALMA S.R.L. RIO TURBIO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 41,
+    "nombre": "ALMA S.R.L. 28 DE NOVIEMBRE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 42,
+    "nombre": "EESS PIRILLO JOSE ANTONIO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 43,
+    "nombre": "SIGMA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 44,
+    "nombre": "MODICA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 45,
+    "nombre": "DALLWYN SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 46,
+    "nombre": "CARLETTI HNOS SRL APIES 2850",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 47,
+    "nombre": "25 DE MAYO S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 48,
+    "nombre": "LA CORDILLERA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 49,
+    "nombre": "GRUPO ACCION SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 50,
+    "nombre": "VERTICE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 51,
+    "nombre": "DISTROLUBE S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 52,
+    "nombre": "SANTA CLARA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 53,
+    "nombre": "IGLESIAS HNOS S.C.C.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 54,
+    "nombre": "A.A.BUJALDON S.H",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 55,
+    "nombre": "EESS  J & P",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 56,
+    "nombre": "ELOY GUERRERO PANAMERICANA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 57,
+    "nombre": "EL SALVADOR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 58,
+    "nombre": "MILENIUM SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 59,
+    "nombre": "BABNIK S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 60,
+    "nombre": "CARLOS Y OSCAR SANCHEZ (C. ARAUJO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 61,
+    "nombre": "SUPER SERVICIOS S.A.  J.L.SUAREZ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 62,
+    "nombre": "SUPER SERVICIOS S.A. OLLEROS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 63,
+    "nombre": "SUPER SERVICIOS S.A. P. MORENO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 64,
+    "nombre": "SUPER SERVICIOS S.A. YATAY",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 65,
+    "nombre": "NAFPUR XXI SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 66,
+    "nombre": "PETRO ARG S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 67,
+    "nombre": "KOFEGAS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 68,
+    "nombre": "SERVIPARQUE SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 69,
+    "nombre": "BUZANCY SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 70,
+    "nombre": "BAMBURY SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 71,
+    "nombre": "NICARAGUA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 72,
+    "nombre": "NEUMATICOS CAMOIA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 73,
+    "nombre": "PARADOR NORTE HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 74,
+    "nombre": "RIVAGAS CAPITAL S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 75,
+    "nombre": "RIVAGAS SAN JUSTO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 76,
+    "nombre": "LA ROTONDA S.H.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 77,
+    "nombre": "GASOLEO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 78,
+    "nombre": "ROCCA COMBUSTIBLE S.A. ECHAGUE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 79,
+    "nombre": "ROCCA COMBUSTIBLE S.A. BRASIL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 80,
+    "nombre": "P. ZUCCO Y CIA S.A. SAN JUSTO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 81,
+    "nombre": "INVERSORA MINORISTA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 82,
+    "nombre": "GV S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 83,
+    "nombre": "EESS RUTA 1422 SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 84,
+    "nombre": "EESS  FIAMA  SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 85,
+    "nombre": "LUIS LARUMBE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 86,
+    "nombre": "REPSOL YPF",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 87,
+    "nombre": "LUIS G. POZOBON E HIJOS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 88,
+    "nombre": "PETROSUR  S.A MENDOZA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 89,
+    "nombre": "MANDISOVI S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 90,
+    "nombre": "SAFARI AUTOMOTORES S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 91,
+    "nombre": "PETROSURCO  S.A RUTA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 92,
+    "nombre": "PETROSURCO S.A. CENTRO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 93,
+    "nombre": "MONTEVERDI S.R.L.INDEP.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 94,
+    "nombre": "CLOP SALTO DE LAS ROSAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 95,
+    "nombre": "COMERCIAL MANITTA HNOS. CENTRO S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 96,
+    "nombre": "RIFORNIMENTO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 97,
+    "nombre": "MONTEVERDI S.R.L. INDEPENDENCIA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 98,
+    "nombre": "BASSO HNOS S.A. TUCUMAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 99,
+    "nombre": "BASSO HNOS S.A. PUERTO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 100,
+    "nombre": "BASSO INDEPENDENCIA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 101,
+    "nombre": "SAN JUAN Y SOLIS S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 102,
+    "nombre": "VALENCIA & CUYO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 105,
+    "nombre": "IGNIS S.R.L. SUCURSAL C.CORIA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 106,
+    "nombre": "KEOPE S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 107,
+    "nombre": "FLORENCIA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 108,
+    "nombre": "CIA HNOS. S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 109,
+    "nombre": "QUINTA SECCION S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 110,
+    "nombre": "MALAISI VICTOR HUGO - RAWSON",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 111,
+    "nombre": "SERBE SRL (EX BERRUEZO JOSE ANTONIO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 112,
+    "nombre": "BEST & BEST TREVELIN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 113,
+    "nombre": "COMERCIAL PUERTO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 114,
+    "nombre": "CONCEPCIÓN DEL URUGUAY  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 117,
+    "nombre": "DA COSTA E HIJOS SENZABELLO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 118,
+    "nombre": "AUFKOCHEN SACIFI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 119,
+    "nombre": "GUMERSINDO PACHECO GRAL BELGRANO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 120,
+    "nombre": "GRUPO COMERCIAL SRL NOGOYA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 121,
+    "nombre": "PARADA NORTE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 122,
+    "nombre": "ZONA CERO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 123,
+    "nombre": "SANTONI HNOS.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 124,
+    "nombre": "SERVISUR  SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 125,
+    "nombre": "PETRO  GAS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 126,
+    "nombre": "AMARU S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 127,
+    "nombre": "EUREKA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 128,
+    "nombre": "ITAL  NAF",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 129,
+    "nombre": "ITAL  GAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 130,
+    "nombre": "ITAL  PAVON",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 131,
+    "nombre": "SERVICIO INTEGRAL ALEM SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 132,
+    "nombre": "NORGAS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 134,
+    "nombre": "REAL S.A. EUGENIO ROSSI (JUNIN)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 135,
+    "nombre": "CONSTITUYENTES  1806  SA.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 136,
+    "nombre": "PUENTE  VANGUARDIA  S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 137,
+    "nombre": "MATA  NEGRA  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 138,
+    "nombre": "LA ROTONDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 139,
+    "nombre": "PETROVALLE S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 140,
+    "nombre": "AUTOSUR RIO GRANDE SA MALVINAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 141,
+    "nombre": "ESDH  SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 142,
+    "nombre": "BLAT  SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 143,
+    "nombre": "BARBERO  HNOS.  S.A. SAN MIGUEL DEL MONTE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 145,
+    "nombre": "PARADOR NORTE POSTA PILAR S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 146,
+    "nombre": "ZARCAM  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 147,
+    "nombre": "FAVINI  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 148,
+    "nombre": "COMBUSTIBLES PC  SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 149,
+    "nombre": "GRUPO FIP ROLON",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 150,
+    "nombre": "LE BRETON  S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 151,
+    "nombre": "LA COMERCIAL GAS  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 152,
+    "nombre": "INCAT  S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 153,
+    "nombre": "SERV. TURÍSTICOS DE RUTAS S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 154,
+    "nombre": "AGROENERGIA  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 155,
+    "nombre": "SELVA BO1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 156,
+    "nombre": "RIZZO PABLO ALEJANDRO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 157,
+    "nombre": "DALCON  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 158,
+    "nombre": "TRANSCONTEINER S.RL.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 159,
+    "nombre": "ALLUB  HNOS. PALMIRA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 160,
+    "nombre": "PACRISVA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 161,
+    "nombre": "SUPER SERVICIOS S.A  SEGUÍ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 162,
+    "nombre": "VERGARA COMBUSTIBLES  S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 163,
+    "nombre": "PARADA  SUR  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 164,
+    "nombre": "SERVINORTE  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 165,
+    "nombre": "MORABITO  HNOS.  SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 166,
+    "nombre": "JOSE  BENEDETTI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 167,
+    "nombre": "NAFPUR  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 168,
+    "nombre": "LAS  SIERRAS  S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 169,
+    "nombre": "OCTANO  S.A NUEVA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 170,
+    "nombre": "H  Y  GL  CONSTRUCCIONES  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 171,
+    "nombre": "DON ANTONIO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 172,
+    "nombre": "BIOENDESA  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 173,
+    "nombre": "ABRAHAM TRANSPORTE  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 174,
+    "nombre": "ABRAHAM LUBES  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 175,
+    "nombre": "CLÉRICI  S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 176,
+    "nombre": "GERBAUDO J. Y SCHIARITE R. SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 177,
+    "nombre": "SELVA BO2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 178,
+    "nombre": "PETROSAR PRODUC. Y SERV. S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 179,
+    "nombre": "YARAS  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 180,
+    "nombre": "RED PETROL  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 181,
+    "nombre": "PALDEN  S.A BO 1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 182,
+    "nombre": "RUTA 17 SA (EX JOSÉ LÓPEZ M.E.FERRAROTTI SHFE) CASTILLO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 183,
+    "nombre": "AGROENERGIA  S.A DUALAGRO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 184,
+    "nombre": "DALCON S.A. PETROBRAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 185,
+    "nombre": "FERRAROTTI E HIJOS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 186,
+    "nombre": "GUADALUPE  S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 187,
+    "nombre": "DI CE TOURS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 188,
+    "nombre": "ANGELA NESCI  S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 189,
+    "nombre": "CARLOS PESSI S.R.L. HEAD OFFICE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 190,
+    "nombre": "DALCON  S.A GNC",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 192,
+    "nombre": "GNC EL TALAR S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 193,
+    "nombre": "ALLUB MAIPU RUSSELL  S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 194,
+    "nombre": "ALLUB LA DORMIDA  S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 195,
+    "nombre": "OPEN 25 HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 197,
+    "nombre": "ALLUB HNOS. SAN MARTIN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 198,
+    "nombre": "AUTOSUR RIO GRANDE S.R.L.  EL CANO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 199,
+    "nombre": "AUTOSUR RIO GRANDE  S.A RIVADAVIA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 200,
+    "nombre": "GRUPO  FIP ZARATE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 201,
+    "nombre": "GUMERSINDO PACHECO  S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 202,
+    "nombre": "ELOY GUERRERO RUTA 50",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 203,
+    "nombre": "AGROENERGIA  S.A ENERPLUS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 204,
+    "nombre": "DIQUE GAS  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 205,
+    "nombre": "RIO SALADO - B03 - (EX LA PLAZA) - VILLA REGINA CENTRO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 206,
+    "nombre": "DALVIAN  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 207,
+    "nombre": "VIENTOS DEL SUR  S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 208,
+    "nombre": "GOENAGA NOEL EUGENIO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 209,
+    "nombre": "ESTACIÓN VISIÓN  S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 210,
+    "nombre": "OPEN 25 BO3 L3",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 211,
+    "nombre": "OPEN 25 BO17 L17",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 212,
+    "nombre": "DA COSTA E HIJOS S.A SURGAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 213,
+    "nombre": "SERVICIOS CIPOLLETTI  S.R.L - CINCO SALTOS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 214,
+    "nombre": "SERVICIOS CIPOLLETTI S.R.L - 1 PACHECO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 215,
+    "nombre": "OPEN 25 BO143 L143",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 216,
+    "nombre": "SL GROUP REPRE.Y SERVICIOS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 217,
+    "nombre": "RIO SALADO S.R.L REGINA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 218,
+    "nombre": "JORGE TRAVANI Y CIA.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 219,
+    "nombre": "CASA ELICEIRY S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 220,
+    "nombre": "RIO SALADO SRL CHICHINALES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 221,
+    "nombre": "SUPER SERVICIOS S.A. MARCO SASTRE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 222,
+    "nombre": "BARBERO HERMANOS SA CHASCOMUS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 223,
+    "nombre": "SUC. DE ROBERTO SAMAN S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 224,
+    "nombre": "BARBERO HERMANOS YPF SAN JOSE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 225,
+    "nombre": "LA PLAZA VILLA REGINA RUTA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 226,
+    "nombre": "PETRO NORTE GNC SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 227,
+    "nombre": "GRUPO COMERCIAL  SRL BLANCA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 228,
+    "nombre": "OPEN 25 BO145 L145",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 229,
+    "nombre": "OPEN 25 BO146 L146",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 231,
+    "nombre": "DA COSTA E HIJOS S.A. ALLAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 232,
+    "nombre": "CARLOS PESSI S.R.L. ACHA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 233,
+    "nombre": "CARLOS PESSI S.R.L. BUODO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 234,
+    "nombre": "DA COSTA E HIJOS S.A. EL PATO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 235,
+    "nombre": "EST. DE SERV. NORTENA  S.R.L. LA NORTEÑA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 236,
+    "nombre": "BARBERO HNOS. GENERAL BELGRANO 2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 237,
+    "nombre": "DA COSTA E HIJOS BERAZATEGUI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 238,
+    "nombre": "BARBERO HNOS. LA PLATA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 239,
+    "nombre": "CARLOS PESSI S.R.L. CRUZ DEL SUR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 241,
+    "nombre": "PETROGUAZZ S.A. (1807)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 242,
+    "nombre": "BARBERO HNOS. RANCHO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 243,
+    "nombre": "DA COSTA E HIJOS SA CALLE 21",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 244,
+    "nombre": "PETROGAS TANDIL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 245,
+    "nombre": "CIANCIO, CIANCIO Y CIANCIO SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 246,
+    "nombre": "CEYMA COMBUSTIBLES (EX RAUL JOSE BATET SRL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 247,
+    "nombre": "CARLOS PESSI S.R.L. SUR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 248,
+    "nombre": "RERIFE SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 249,
+    "nombre": "PETROGUAZZ S.A. (1806)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 250,
+    "nombre": "TRIAR SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 251,
+    "nombre": "RODRIGUEZ MANUEL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 252,
+    "nombre": "DALCON SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 253,
+    "nombre": "BERAZA Y CIA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 254,
+    "nombre": "UNITECPROCOM SA ( EX COMBUSTIBLES PC)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 255,
+    "nombre": "PETROSURCO SA PACIFICO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 256,
+    "nombre": "OPESSA YATAY",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 257,
+    "nombre": "R RIETMANN Y CIA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 258,
+    "nombre": "PETROLURO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 259,
+    "nombre": "GUSTAVO MARTINI S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 260,
+    "nombre": "COFO PRINGLES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 261,
+    "nombre": "HERRERO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 263,
+    "nombre": "ORGANIZACIÓN DELASOIDE HNOS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 264,
+    "nombre": "PETROGUAZZ S.A (1810)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 265,
+    "nombre": "ESTACIÓN RAUL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 266,
+    "nombre": "CARLOS PESSI S.R.L. ALVEAR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 267,
+    "nombre": "FARMEX SAIC",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 268,
+    "nombre": "PLUS SERVICE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 269,
+    "nombre": "DOMINGO CIANCIO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 270,
+    "nombre": "FONTI DE MARTINATTO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 271,
+    "nombre": "VALENTIN CAON SRL 2235",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 272,
+    "nombre": "SERVICIOS PILAR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 273,
+    "nombre": "PENNA Y CLERICI SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 274,
+    "nombre": "DELASOIDE HNOS.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 275,
+    "nombre": "DELASOIDE HNOS.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 276,
+    "nombre": "ADOLFO SARTORI SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 277,
+    "nombre": "ADOLFO SARTORI SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 278,
+    "nombre": "FLORIPO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 279,
+    "nombre": "P. ZUCCO Y CIA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 280,
+    "nombre": "CASA ALARCIA SAC.I.F.I.A.G.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 281,
+    "nombre": "PETRO ESTE ESTIVIL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 282,
+    "nombre": "DANMAZ S.A (EX DANTE LUIS MAZZON)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 283,
+    "nombre": "MARTINATTO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 284,
+    "nombre": "FERREIRO FRANCISCO RAUL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 285,
+    "nombre": "DISTRIBUIDORA SUR SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 286,
+    "nombre": "AREST SA - NO USAR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 287,
+    "nombre": "ACA VILLA DEVOTO (GUNTER GISPE) - TIENDA - APIES 118",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 288,
+    "nombre": "OSCAR FELIX CHIANTORE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 289,
+    "nombre": "MIGUEL ATILIO Y VALENTIN CAON SH 2266",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 290,
+    "nombre": "PETROTANDIL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 291,
+    "nombre": "PETROGAS TANDIL CENTRO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 292,
+    "nombre": "ESTACIONAMIENTOS TIGRE SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 293,
+    "nombre": "MENDOZA FUNDACIONAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 294,
+    "nombre": "MANZI SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 295,
+    "nombre": "MAURER Y GRUMELLI SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 296,
+    "nombre": "ESER SA  NO USAR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 297,
+    "nombre": "ESER SA NO USAR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 298,
+    "nombre": "PROODOS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 299,
+    "nombre": "INDEPENDENCIA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 300,
+    "nombre": "COMERCIAL DIEGO SRL - RUFINO - B01",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 301,
+    "nombre": "NELLY S FERNANDEZ E HIJOS SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 302,
+    "nombre": "TORAZO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 303,
+    "nombre": "AVANZAR SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 304,
+    "nombre": "GIORGI SARTOR Y CIA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 305,
+    "nombre": "ACA BELGRANO (BERACCAR) - TIENDA - APIES 117",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 306,
+    "nombre": "ESEL SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 307,
+    "nombre": "GNC ESCOBAR SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 308,
+    "nombre": "ACA BARRACAS (SERVI INTEGRAL) - TIENDA - APIES 1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 309,
+    "nombre": "MI DESTINO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 310,
+    "nombre": "SUCESORES DE ANGEL ALFARO SRL (NO USAR)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 311,
+    "nombre": "SELVA HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 312,
+    "nombre": "BARBERO HERMANOS EESS VILLANUEVA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 313,
+    "nombre": "BASSO HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 314,
+    "nombre": "ALLUB HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 315,
+    "nombre": "OPEN 25 BO48 L48",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 316,
+    "nombre": "DALCON 653",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 317,
+    "nombre": "OPEN 25 BO13 L13",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 318,
+    "nombre": "FOCA SOFTWARE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 319,
+    "nombre": "AGROENERGIA HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 320,
+    "nombre": "LA PLAZA CIPOLLETTI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 321,
+    "nombre": "OCTANO HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 322,
+    "nombre": "COMERCIAL DIEGO SRL - ALVEAR - B03",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 323,
+    "nombre": "RIO SALADO SRL -  GAL ROCA RUTA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 324,
+    "nombre": "BARBERO HNOS. (PILA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 325,
+    "nombre": "AUTOSUR HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 326,
+    "nombre": "EDOSADA SA BARADEROS (ANANOS)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 327,
+    "nombre": "LA PLAZA SRL GRAL ROCA NUEVA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 328,
+    "nombre": "TIBURCIO SANZ S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 329,
+    "nombre": "LA PLAZA VILLA REGINA CENTRO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 330,
+    "nombre": "OPEN 25 BO34 L34",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 331,
+    "nombre": "OPEN 25 BO38 L38",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 332,
+    "nombre": "OPEN 25 BO36 L36",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 333,
+    "nombre": "OPEN 25 BO37 L37",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 334,
+    "nombre": "OPEN 25 BO35 L35",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 335,
+    "nombre": "OPEN 25 BO47 L47",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 336,
+    "nombre": "OPEN 25 BO49 L49",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 337,
+    "nombre": "OPEN 25 BO10 L10",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 338,
+    "nombre": "OPEN 25 BO150 L150",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 339,
+    "nombre": "RODRIGUEZ FLORENCIO DOMINGO YPFMONTE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 340,
+    "nombre": "DALCON SA PETROMORENO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 342,
+    "nombre": "OPEN 25 BO149 L149",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 343,
+    "nombre": "PETROENERGIA AVDA. AMERICA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 346,
+    "nombre": "DA COSTA HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 348,
+    "nombre": "BARBERO HNOS HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 349,
+    "nombre": "GCV S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 350,
+    "nombre": "PALO VERDE ADROGUE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 351,
+    "nombre": "LOUSTEAU",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 352,
+    "nombre": "GERK & CIA S.A. BO 1 EUGENIO BUSTOS FRQ 2777",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 353,
+    "nombre": "MORELLO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 354,
+    "nombre": "PARADOR NORTE BO1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 355,
+    "nombre": "CLOP HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 356,
+    "nombre": "MAROLA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 357,
+    "nombre": "PETROBRAS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 358,
+    "nombre": "OPEN 25 BO159 L159",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 360,
+    "nombre": "UNITY OIL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 361,
+    "nombre": "OTAMENDI (LAS HERAS)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 362,
+    "nombre": "OTAMENDI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 363,
+    "nombre": "OPEN 25 BO83 L83",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 364,
+    "nombre": "PETROENERGIA AGRO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 365,
+    "nombre": "NOREST SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 366,
+    "nombre": "OPEN 25 BO67 L67",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 367,
+    "nombre": "COMBUSTIBLES LA LONJA S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 368,
+    "nombre": "EDARGUS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 369,
+    "nombre": "SUCESORES DE ADELQUI TUBELLO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 370,
+    "nombre": "NUEVA SIMCA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 371,
+    "nombre": "NUEVO CUYO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 372,
+    "nombre": "PARADOR ROBLES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 373,
+    "nombre": "ALTAMIRA ALEJANDRA SILVINA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 374,
+    "nombre": "ALONSO CONSTANTINO RAUL (MAR DEL PLATA) EL GAUCHO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 376,
+    "nombre": "LA FABRICA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 377,
+    "nombre": "FAST OIL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 378,
+    "nombre": "OPEN 25 BO132 L132",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 379,
+    "nombre": "OPEN 25 BO120 L120",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 380,
+    "nombre": "OPEN 25 BO09 L09",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 381,
+    "nombre": "OPEN 25 BO170 L170",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 382,
+    "nombre": "OPEN 25 BO19 L19",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 383,
+    "nombre": "OPEN 25 BO1 L1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 384,
+    "nombre": "OPEN 25 BO142 L142",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 385,
+    "nombre": "OPEN 25 BO141 L141",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 386,
+    "nombre": "OPEN 25 BO31 L31",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 387,
+    "nombre": "OPEN 25 BO121 L121",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 388,
+    "nombre": "OPEN 25 BO123 L123",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 389,
+    "nombre": "SUCESORES DE ANGEL ALFARO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 390,
+    "nombre": "ECHANIZ HNOS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 391,
+    "nombre": "LAS AMERICAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 392,
+    "nombre": "LIBEROIL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 393,
+    "nombre": "SELVA MAYORISTA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 395,
+    "nombre": "OBLEAS Y TERRENOS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 396,
+    "nombre": "HIJOS DE LUIS RECUPERO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 397,
+    "nombre": "ARAMBURU M.JOSE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 398,
+    "nombre": "MERCASOFA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 399,
+    "nombre": "RUIZ HNOS (NO VINCULADA A HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 400,
+    "nombre": "CARLOS Y NESTOR SCHAFNER",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 401,
+    "nombre": "DE BONA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 402,
+    "nombre": "OPEN 25 BO26 L26",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 403,
+    "nombre": "OPEN 25 BO168 L168",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 404,
+    "nombre": "CARLOS PESSI S.R.L. MAYORISTA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 405,
+    "nombre": "OPEN 25 BO39 L39",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 406,
+    "nombre": "ECHEVERRIA E HIJOS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 407,
+    "nombre": "MONTOYA EDGARDO GUSTAVO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 408,
+    "nombre": "ESTACION MONTEVERDE S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 409,
+    "nombre": "PETROSURCO  HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 410,
+    "nombre": "OPEN 25 BO11 L11",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 411,
+    "nombre": "OPEN 25 BO172 L172",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 412,
+    "nombre": "OPEN 25 BO147 L147",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 413,
+    "nombre": "OPEN 25 BO33 L33",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 414,
+    "nombre": "OPEN 25 BO176 L176",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 415,
+    "nombre": "OPEN 25 BO18 L18",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 416,
+    "nombre": "OPEN 25 BO174 L174",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 417,
+    "nombre": "OPEN 25 BO112 L112",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 418,
+    "nombre": "OPEN 25 BO58 L58",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 420,
+    "nombre": "OPEN 25 BO165 L165",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 421,
+    "nombre": "OPEN 25 BO25 L25",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 422,
+    "nombre": "OPEN 25 BO175 L175",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 423,
+    "nombre": "OPEN 25 BO144 L144",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 424,
+    "nombre": "OPEN 25 BO52 L52",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 425,
+    "nombre": "OPEN 25 BO135 L135",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 426,
+    "nombre": "OPEN 25 BO65 L65",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 427,
+    "nombre": "OPEN 25 BO171 L171",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 428,
+    "nombre": "OPEN 25 BO155 L155",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 429,
+    "nombre": "DANOVIS S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 430,
+    "nombre": "OPEN 25 BO84 L84",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 431,
+    "nombre": "OPEN 25 BO56 L56",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 432,
+    "nombre": "OPEN 25 BO59 L59",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 433,
+    "nombre": "OPEN 25 BO12 L12",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 434,
+    "nombre": "OPEN 25 BO16 L16",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 435,
+    "nombre": "OPEN 25 BO82 L82",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 436,
+    "nombre": "OPEN 25 BO118 L118",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 437,
+    "nombre": "LUIS HUMBERTO DELGADO (RUTA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 438,
+    "nombre": "LUIS HUMBERTO DELGADO (BESARES)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 439,
+    "nombre": "FULL SERVICE S.R.L. (RUTA 9)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 440,
+    "nombre": "FULL SERVICE S.R.L. (RIO SECO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 441,
+    "nombre": "FULL SERVICE S.R.L. (EG3)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 442,
+    "nombre": "OPEN 25 BO73 L73",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 443,
+    "nombre": "ROCCA CARHUE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 444,
+    "nombre": "DOS S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 445,
+    "nombre": "OPEN 25 BO87 L87",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 446,
+    "nombre": "OPEN 25 BO89 L89",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 447,
+    "nombre": "OPEN 25 BO153 L153",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 448,
+    "nombre": "OPEN 25 BO151 L151",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 449,
+    "nombre": "OPEN 25 BO152 L152",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 450,
+    "nombre": "OPEN 25 BO46 L46",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 451,
+    "nombre": "OPEN 25 BO85 L85",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 452,
+    "nombre": "DUAL NORTE S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 453,
+    "nombre": "BLOKE S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 454,
+    "nombre": "OPEN 25 BO180 L180",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 455,
+    "nombre": "OPEN 25 BO86 L86",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 456,
+    "nombre": "EL SALVADOR (LA PUNTA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 457,
+    "nombre": "MALENO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 458,
+    "nombre": "OPEN 25 BO181 L181",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 459,
+    "nombre": "OPEN 25 BO129 L129",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 460,
+    "nombre": "OPEN 25 BO43 L43",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 461,
+    "nombre": "OPEN 25 BO41 L41",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 462,
+    "nombre": "ARGENTIMO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 463,
+    "nombre": "OPEN 25 BO2 L2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 464,
+    "nombre": "HURLINGHAM COMBUSTIBLES S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 465,
+    "nombre": "OPEN 25 BO167 L167",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 467,
+    "nombre": "LA NORTEÑA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 468,
+    "nombre": "OPEN 25 BO116 L116",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 469,
+    "nombre": "OPEN 25 BO109 L109",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 470,
+    "nombre": "SUPER SERVICIOS S.A. GRAL. ROCA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 471,
+    "nombre": "GAJDEMSKI GUILLERMO A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 472,
+    "nombre": "OPEN 25 BO160 L160",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 473,
+    "nombre": "OPEN 25 BO177 L177",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 474,
+    "nombre": "OPEN 25 BO179 L179",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 475,
+    "nombre": "ABRAHAM ARAMANA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 476,
+    "nombre": "OPEN 25 BO101 L101",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 477,
+    "nombre": "OPEN 25 BO128 L128",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 478,
+    "nombre": "OPEN 25 BO182 L182",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 479,
+    "nombre": "RUIZ HNOS SRL ESPAÑA BO1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 480,
+    "nombre": "RUIZ HNOS SRL LEGUA BO2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 481,
+    "nombre": "BLANCO VICTOR MANUEL (532 y 17)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 482,
+    "nombre": "FEDEGAS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 483,
+    "nombre": "LAS ACACIAS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 484,
+    "nombre": "JORGE O. MINETTI E HIJOS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 485,
+    "nombre": "OPEN 25 BO68 L68",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 486,
+    "nombre": "OPEN 25 BO184 L184",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 487,
+    "nombre": "OPEN 25 BO157 L157",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 488,
+    "nombre": "OPEN 25 BO6 L6",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 489,
+    "nombre": "OPEN 25 BO161 L161",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 490,
+    "nombre": "OPEN 25 BO42 L42",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 491,
+    "nombre": "OPEN 25 BO78 L78",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 492,
+    "nombre": "OPEN 25 BO32 L32",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 493,
+    "nombre": "PLATAFORMA URBANA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 494,
+    "nombre": "ORO VERDE S.A. HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 495,
+    "nombre": "CRACCO A SRL - EX CRACCO ADOLFO INOSENCIO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 496,
+    "nombre": "DESTINATUM S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 497,
+    "nombre": "MONTAJE Y CONTRUCCIONES SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 498,
+    "nombre": "SANCHEZ SILLERO VENTAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 499,
+    "nombre": "OPEN 25 BO183 L183",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 500,
+    "nombre": "NUEVA BORGHETTO S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 501,
+    "nombre": "SANCHEZ SILLERO TUNUYAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 502,
+    "nombre": "OPEN 25 BO186 L186",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 503,
+    "nombre": "BRAMO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 504,
+    "nombre": "MACCIONE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 505,
+    "nombre": "SOR ANGELA DE LA CRUZ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 506,
+    "nombre": "JYF CATAMARCA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 507,
+    "nombre": "VENAR CARBURANTES S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 508,
+    "nombre": "PERABO (LA CONSULTA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 509,
+    "nombre": "GALVAN REY SERGIO ALEJANDRO SAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 510,
+    "nombre": "PERABO (RUTA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 511,
+    "nombre": "PERABO (CHEVRON)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 512,
+    "nombre": "PERABO HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 513,
+    "nombre": "PLACOMGAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 514,
+    "nombre": "LIQUID GAS S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 515,
+    "nombre": "LANDETE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 516,
+    "nombre": "BANESTO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 518,
+    "nombre": "OPEN 25 BO127 L127",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 520,
+    "nombre": "OPEN 25 BO115 L115",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 521,
+    "nombre": "ÑUSCA.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 522,
+    "nombre": "OPEN 25 BO188 L188",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 523,
+    "nombre": "LA VEGA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 524,
+    "nombre": "COLONIA BARON",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 525,
+    "nombre": "POS DEBO RETAIL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 526,
+    "nombre": "DIAZ Y RIOS SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 527,
+    "nombre": "ALBERTO Y OSCAR RASSO SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 528,
+    "nombre": "INVERT S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 529,
+    "nombre": "OPEN 25 BO192 L192",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 530,
+    "nombre": "OPEN 25 BO190 L190",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 531,
+    "nombre": "OPEN 25 BO191 L191",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 533,
+    "nombre": "SERVITER S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 534,
+    "nombre": "PETRO GRUTA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 535,
+    "nombre": "EL JUMEAL S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 536,
+    "nombre": "ALFREDO CARDINAL E HIJOS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 538,
+    "nombre": "DON SEBASTIAN S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 539,
+    "nombre": "LASER PRINT S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 540,
+    "nombre": "OPEN 25 BO163 L163",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 541,
+    "nombre": "VIEJA ESTACION",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 543,
+    "nombre": "SAN RUBEN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 544,
+    "nombre": "GALICIA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 545,
+    "nombre": "FEYME S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 546,
+    "nombre": "PETROSERVICE S.R.L. (BO1)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 547,
+    "nombre": "LA ESTACION (SHELL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 548,
+    "nombre": "COMBUSTIBLES RAUL ALONSO S.A. (COLON)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 549,
+    "nombre": "LA ESTACION (ESSO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 550,
+    "nombre": "M.J. IGLESIAS S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 551,
+    "nombre": "JENSPECK SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 552,
+    "nombre": "AOYPF",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 553,
+    "nombre": "PILA COMBUSTIBLES S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 554,
+    "nombre": "ERRECABORDE CLAUDIA ANDREA (EX ROZA GONZALO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 555,
+    "nombre": "ENER + S.R.L. (BO1)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 556,
+    "nombre": "WORKERS S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 557,
+    "nombre": "ACTIS S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 558,
+    "nombre": "GNC THAMES S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 559,
+    "nombre": "SERVIVENTAS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 560,
+    "nombre": "OPEN 25 BO193 L193",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 561,
+    "nombre": "OPEN 25 BO194 L194",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 563,
+    "nombre": "VENAR PARANA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 564,
+    "nombre": "VENAR MERCADO CENTRAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 565,
+    "nombre": "COMERCIAL DIEGO SRL - AMENABAR - B02",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 567,
+    "nombre": "PAYS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 568,
+    "nombre": "MANUEL TRELLEZ (SERVICIOS TIGRE)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 569,
+    "nombre": "LAS FLORES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 570,
+    "nombre": "VENAR HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 571,
+    "nombre": "RUBINICH ENZO ARIEL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 572,
+    "nombre": "MAURER Y GRUMELLI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 573,
+    "nombre": "OPEN 25 BO195 L195",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 574,
+    "nombre": "OPEN 25 BO196 L196",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 575,
+    "nombre": "PETROSUR S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 576,
+    "nombre": "OPEN 25 BO198 L198",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 577,
+    "nombre": "DUEL SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 578,
+    "nombre": "TRIANGLE SCA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 579,
+    "nombre": "FANTINI Y CIA SA (EX OSVALDO FANTINI Y CIA SRL) SANTA ROSA BO1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 580,
+    "nombre": "FANTINI BALNEAREA BO2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 581,
+    "nombre": "FANTINI LA PUERTA BO3",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 582,
+    "nombre": "MELINCUE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 583,
+    "nombre": "DGB SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 584,
+    "nombre": "OPEN 25 BO199 L199",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 585,
+    "nombre": "OPEN 25 BO197 L197",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 586,
+    "nombre": "SERVICIO SAN JORGE S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 587,
+    "nombre": "FANTINI HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 588,
+    "nombre": "LOS ITARES SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 589,
+    "nombre": "DEL GOLF S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 590,
+    "nombre": "PETROSUR GREGORES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 591,
+    "nombre": "PETROSUR EL ALAMO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 592,
+    "nombre": "EST. RAUL GRANADERO BAIGORRIA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 593,
+    "nombre": "EST. RAUL CAPITAN BERMUDEZ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 594,
+    "nombre": "GASPIC -",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 595,
+    "nombre": "TOBAGO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 596,
+    "nombre": "OPEN 25 BO200 L200",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 597,
+    "nombre": "PETROSAM S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 598,
+    "nombre": "ZAGABRIA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 599,
+    "nombre": "PETROSUR HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 600,
+    "nombre": "FULL SERVICE HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 601,
+    "nombre": "ENER + S.R.L. (BO2)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 602,
+    "nombre": "OPEN 25 BO201 L201",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 603,
+    "nombre": "OPEN 25 BO091 L91",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 606,
+    "nombre": "ENER + S.R.L. (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 607,
+    "nombre": "PETROSERVICE S.R.L. (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 608,
+    "nombre": "ANGELA NESCI  S.R.L  (2) - EX CARISTO DORA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 609,
+    "nombre": "PETROGUAZZ S.A. (1982)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 610,
+    "nombre": "JPC OIL SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 611,
+    "nombre": "NELIO RAUL PIGNATTA Y CIA S.A. (PILAR)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 612,
+    "nombre": "OPEN 25 BO203 L203",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 613,
+    "nombre": "DON PACO COMBUSTIBLES SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 614,
+    "nombre": "SATRAGNO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 615,
+    "nombre": "FABIAN ENRICO SRL (BO1)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 616,
+    "nombre": "MENDOZA FIDUCIARIA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 617,
+    "nombre": "COOP. JUSTINIANO POSSE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 618,
+    "nombre": "PAREDI DANIEL ALBERTO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 619,
+    "nombre": "TRANSPORTE PIEDRA TOBA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 621,
+    "nombre": "OPEN 25 BO202 L202",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 622,
+    "nombre": "OPEN 25 BO204 L204",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 624,
+    "nombre": "PRODUCCION S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 625,
+    "nombre": "PLACOMGAS S.A. (SHELL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 626,
+    "nombre": "OPEN 25 BO205 L205",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 627,
+    "nombre": "COOP. DIAMANTE LTDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 628,
+    "nombre": "MARISSI Y VILLANUEVA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 629,
+    "nombre": "ACA LA RIOJA (SIEZ) - TIENDA - APIES 2647",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 630,
+    "nombre": "ACA JUJUY (BRUMAFRA) - TIENDA - APIES 2600",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 631,
+    "nombre": "MICA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 632,
+    "nombre": "CARDO Y GHIDELLAS.H.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 633,
+    "nombre": "AMADO DI MARCO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 634,
+    "nombre": "COGNIGNI HUGO CARLOS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 635,
+    "nombre": "ACA CALEU CALEU (CARLOS ANSALDO) - TIENDA - APIES 1502",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 636,
+    "nombre": "ONTIVEROS GEORGINA LUCIANA EX - FILGUEIRAS EDUARDO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 637,
+    "nombre": "LA QUINTA ESTACION S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 638,
+    "nombre": "GUERINO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 639,
+    "nombre": "MARIJO BO2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 640,
+    "nombre": "FINARVIS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 641,
+    "nombre": "PUENTE BLANCO S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 642,
+    "nombre": "LA CUARTA S.A. (AUTOPISTA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 643,
+    "nombre": "NOREST S.R.L. (MARTINEZ)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 644,
+    "nombre": "POSSETO HNOS Y CIA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 645,
+    "nombre": "OPEN 25 BO209 L209",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 646,
+    "nombre": "CARLOS PESSI S.R.L. NORTE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 647,
+    "nombre": "IBACETA HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 648,
+    "nombre": "DILUBCO S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 649,
+    "nombre": "COMBUSTIBLES BARCELO S.R.L. - APIES 3229 - MATIAS ZAVALLA - CAPITAL - ESTACION 6",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 650,
+    "nombre": "OPEN 25 BO211 L211",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 651,
+    "nombre": "OPEN 25 BO210 L210",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 652,
+    "nombre": "EN PUNTA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 653,
+    "nombre": "SAN CRISTOBAL S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 654,
+    "nombre": "EX DIQUE GAS  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 655,
+    "nombre": "OIL SUMINISTROS - EX PARIGIANI MARIO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 656,
+    "nombre": "GIACCONI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 657,
+    "nombre": "NIPRO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 658,
+    "nombre": "ALONSO CONSTANTINO RAUL (BENITO JUAREZ) LA RUEDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 659,
+    "nombre": "VERINO (1266)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 660,
+    "nombre": "OPEN 25 BO212 L212",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 663,
+    "nombre": "OPEN 25 BO27 L27",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 665,
+    "nombre": "OPEN 25 BO213 L213",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 666,
+    "nombre": "OPEN 25 BO130 L130",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 667,
+    "nombre": "EST. DE SERVICIO LAS FLORES SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 668,
+    "nombre": "LA POSTA CHIVILCOY",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 669,
+    "nombre": "YPF LA TOMA (RASSO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 670,
+    "nombre": "OPEN 25 BO207 L207",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 671,
+    "nombre": "PARADOR DON VALENTIN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 673,
+    "nombre": "VERINO (2936)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 674,
+    "nombre": "OPEN 25 BO206 L206",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 676,
+    "nombre": "ESMACOL S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 678,
+    "nombre": "POSADAS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 679,
+    "nombre": "SERVICIOS BENAVIDEZ S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 680,
+    "nombre": "OPEN 25 BO219 L219",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 681,
+    "nombre": "OPEN 25 BO218 L218",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 682,
+    "nombre": "GO BAR HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 683,
+    "nombre": "LONQUIMAY",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 684,
+    "nombre": "EX PEHUEN OIL SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 685,
+    "nombre": "OPEN 25 BO139 L139",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 686,
+    "nombre": "OPEN 25 BO214 L214",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 687,
+    "nombre": "OPEN 25 BO092 L092",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 689,
+    "nombre": "GARCIA VITALI HNOS.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 690,
+    "nombre": "LEURINO NEGRO Y DONET SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 691,
+    "nombre": "OPEN 25 BO221 L221",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 692,
+    "nombre": "OPEN 25 BO114 L114",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 693,
+    "nombre": "LOS PUENTES SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 694,
+    "nombre": "CIUDAD DE EZEIZA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 695,
+    "nombre": "NEUMALIDER SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 696,
+    "nombre": "PETROLIDER SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 697,
+    "nombre": "OPEN 25 BO220 L220",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 698,
+    "nombre": "OPEN 25 BO222 L222",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 699,
+    "nombre": "OPEN 25 BO136 L136",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 700,
+    "nombre": "OPEN 25 BO217 L217",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 701,
+    "nombre": "OPEN 25 BO216 L216",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 702,
+    "nombre": "OPEN 25 BO224 L224",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 703,
+    "nombre": "DILUBCO 2 S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 704,
+    "nombre": "SANTA RITA S.H.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 705,
+    "nombre": "OPEN 25 BO102 L102",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 706,
+    "nombre": "OPEN 25 BO208 L208",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 707,
+    "nombre": "OPEN 25 BO106 L106",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 708,
+    "nombre": "DOMINGO PEDRO CAPELLINO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 709,
+    "nombre": "ACA CHOS MALAL (CAYNES SRL - EX LANDETE NESTOR FABIAN) - TIENDA - APIES 1532",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 710,
+    "nombre": "OPEN 25 BO223 L223",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 711,
+    "nombre": "OPEN 25 BO93 L93",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 712,
+    "nombre": "NUESTRO SOSIEGO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 714,
+    "nombre": "GO BAR L01- EL CIELO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 715,
+    "nombre": "GO BAR L10- PALMARES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 716,
+    "nombre": "GO BAR L11- CIUDAD",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 717,
+    "nombre": "GO BAR L14- DALVIAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 718,
+    "nombre": "GO BAR L15- SAN JUAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 719,
+    "nombre": "GO BAR L22- CHACRAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 720,
+    "nombre": "GO BAR L23- SEXTA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 721,
+    "nombre": "GO BAR L25- QUINTA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 722,
+    "nombre": "GO BAR L27- MERCADO CENTRAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 723,
+    "nombre": "OPEN 25 BO225 L225",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 724,
+    "nombre": "OPEN 25 BO226 L226",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 725,
+    "nombre": "OPEN 25 BO148 L148",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 726,
+    "nombre": "OPEN 25 BO227 L227",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 727,
+    "nombre": "SILVESTRI NORBERTO ANTONIO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 728,
+    "nombre": "SHOP DALVIAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 729,
+    "nombre": "BLUME S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 730,
+    "nombre": "LA PALMERA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 731,
+    "nombre": "OPEN 25 BO228 L228",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 732,
+    "nombre": "GO BAR L16- INTERCONTINENTAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 733,
+    "nombre": "GLP S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 734,
+    "nombre": "BODEGA CLOP",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 735,
+    "nombre": "LJP S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 736,
+    "nombre": "HO BENEDETTI (GOOD TASTE)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 737,
+    "nombre": "BENEDETTI (GOOD TASTE) PALMARES BO2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 738,
+    "nombre": "BENEDETTI (GOOD TASTE) CERVANTES BO1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 739,
+    "nombre": "OPEN 25 BO229 L229",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 740,
+    "nombre": "TRESTON  S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 741,
+    "nombre": "SERVICENTRO LOS REMEROS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 742,
+    "nombre": "ENERGY VISION ARGENTINA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 743,
+    "nombre": "COMERCIAL MANITTA HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 744,
+    "nombre": "RAMAL NORTE S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 745,
+    "nombre": "OPEN 25 BO230 L230",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 746,
+    "nombre": "OPEN 25 BO231 L231",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 747,
+    "nombre": "OPEN 25 BO232 L232",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 748,
+    "nombre": "ROMERO COMBUSTIBLES SRL -( EX ROMERO MARTIN IGNACIO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 749,
+    "nombre": "HO BENEDETTI ( ALMA S.R.L.)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 750,
+    "nombre": "BENEDETTI (ALMA S.R.L.) UNIMEV BO1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 751,
+    "nombre": "BENEDETTI (ALMA S.R.L.) ARISTIDES BO2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 752,
+    "nombre": "BENEDETTI (ALMA S.R.L.) LAMADRID BO3",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 753,
+    "nombre": "BENEDETTI (ALMA S.R.L.) MAS CARNE BO4",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 754,
+    "nombre": "FULL SERVICE BO2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 755,
+    "nombre": "SAN ISIDRO 2000",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 756,
+    "nombre": "GO BAR L12- ITALIA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 757,
+    "nombre": "MARIJO S.A. (BO10) (marijo 10 central)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 758,
+    "nombre": "PETROCAPITAL S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 759,
+    "nombre": "AGUERO NORTE S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 760,
+    "nombre": "SUPER SERVICIOS S.A. HEAD OFFICE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 761,
+    "nombre": "JACARANDA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 762,
+    "nombre": "OPEN 25 BO233 L233",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 763,
+    "nombre": "OPEN 25 BO234 L234",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 764,
+    "nombre": "MILENIUM S.R.L. (YPF-RIVADAVIA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 765,
+    "nombre": "MILENIUM S.R.L. (JUNIN)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 766,
+    "nombre": "MACO-BAPE S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 768,
+    "nombre": "FUTURO 2 S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 769,
+    "nombre": "FUNDAR SPA (CHILE)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 770,
+    "nombre": "PATAGONIA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 771,
+    "nombre": "BENEDETTI (PEQ. PLACERES) LUJAN BO1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 772,
+    "nombre": "BENEDETTI (PEQ. PLACERES) MITRE BO2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 773,
+    "nombre": "BENEDETTI (PEQ. PLACERES) ITALIA BO3",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 774,
+    "nombre": "BENEDETTI (PEQ. PLACERES) HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 775,
+    "nombre": "GO BAR L2- CIELO RODRIGUEZ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 776,
+    "nombre": "OPEN 25 BO22 L22",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 777,
+    "nombre": "OPEN 25 BO189 L189",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 778,
+    "nombre": "OPEN 25 BO134 L134",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 779,
+    "nombre": "OPEN 25 BO133 L133",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 780,
+    "nombre": "SERVI SRL (EX MATA  NEGRA  S.A)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 781,
+    "nombre": "AGROCOMB S.A. BUENOS AIRES - ( EX VENAR CARBURANTES SA - MERCADO CENTRAL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 782,
+    "nombre": "REGI GRUPO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 783,
+    "nombre": "OIL COMPANY CORDOBA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 784,
+    "nombre": "AMENGUAL (AV. OCAMPO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 785,
+    "nombre": "SILVESTRI SERGIO ALBERTO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 786,
+    "nombre": "LUCAM S.A. ALEM",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 787,
+    "nombre": "OPEN 24 HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 788,
+    "nombre": "GO BAR L28- MAIPU FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 789,
+    "nombre": "OPEN 25 BO236 L236",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 790,
+    "nombre": "SAN MONTE GAS S.A (EX TALA DEL MONTE)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 791,
+    "nombre": "OPEN 24 L1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 792,
+    "nombre": "OPEN 24 L2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 793,
+    "nombre": "OPEN 24 L3",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 794,
+    "nombre": "OPEN 24 L4",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 795,
+    "nombre": "ALBERTO MORENO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 796,
+    "nombre": "BRAGAS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 797,
+    "nombre": "PETROLITO S.A. (EX PIRILLO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 798,
+    "nombre": "OPEN 25 BO235 L235",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 799,
+    "nombre": "OPEN 25 BO239 L239",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 808,
+    "nombre": "OPEN 25 BO238 L238",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 809,
+    "nombre": "PETROCELA S.A. (KM 188)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 810,
+    "nombre": "NABE COMBUSTIBLE S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 811,
+    "nombre": "PETROCELA S.A. (KM 111)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 812,
+    "nombre": "GNC MUNIZ S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 813,
+    "nombre": "OPEN 25 BO237 L237",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 814,
+    "nombre": "OPEN 25 BO240 L240",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 815,
+    "nombre": "OPEN 25 BO88 L88",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 816,
+    "nombre": "OPEN 25 BO242 L242",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 817,
+    "nombre": "OPEN 25 BO126 L126",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 818,
+    "nombre": "AGUAS DANONE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 819,
+    "nombre": "KIOSCOS YES HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 820,
+    "nombre": "GO BAR L19-CORDOBA FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 821,
+    "nombre": "GO BAR L106- ARAOZ FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 822,
+    "nombre": "OPEN 25 BO4 L4",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 823,
+    "nombre": "EVENTOS D ARTIST (CALIMA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 824,
+    "nombre": "KAIKEN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 825,
+    "nombre": "SILAMA S.A. EX-CIVEL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 826,
+    "nombre": "LA FRONTERA ESTACION DE SERVICIO S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 827,
+    "nombre": "NUEVA BARATOK S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 828,
+    "nombre": "OPEN 25 BO107 L107",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 829,
+    "nombre": "OPEN 25 BO243 L243",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 830,
+    "nombre": "OPEN 25 BO053 L53",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 838,
+    "nombre": "SCHEJTER PABLO LEONARDO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 839,
+    "nombre": "AVALOS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 843,
+    "nombre": "WINE GAS S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 844,
+    "nombre": "ANTONIO MERCURY (MATHEU)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 845,
+    "nombre": "RISCAM S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 846,
+    "nombre": "OPEN 25 BO244 L244",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 847,
+    "nombre": "OPEN 25 BO245 L245",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 848,
+    "nombre": "OPEN 25 BO156 L156",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 849,
+    "nombre": "OPEN 25 BO077 L077",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 850,
+    "nombre": "OPEN 25 BO601 L601",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 851,
+    "nombre": "OPEN 25 BO140 L140",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 852,
+    "nombre": "OPEN 25 BO162 L162",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 854,
+    "nombre": "BARALE S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 855,
+    "nombre": "MUÑOS PAREDES JOSE ANTOLIN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 856,
+    "nombre": "OPEN 25 BO256 L256",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 858,
+    "nombre": "TIGRE GNC S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 859,
+    "nombre": "SPOT AUTOLAVADO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 860,
+    "nombre": "ESTACION FERREYRA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 861,
+    "nombre": "SAMAN DISTRIBUIDORA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 862,
+    "nombre": "PELA HERMANOS  S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 863,
+    "nombre": "GO BAR L17- PEATONAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 864,
+    "nombre": "GO BAR L105- LA BARRACA FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 867,
+    "nombre": "GO BAR L112- SAN RAFAEL SUR (2) FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 868,
+    "nombre": "GO BAR L113- SAN RAFAEL NORTE (1) FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 869,
+    "nombre": "OPEN 25 BO023 L023",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 870,
+    "nombre": "OPEN 25 BO008 L008",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 871,
+    "nombre": "OPEN 25 BO014 L014",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 872,
+    "nombre": "AGENTES ROMERO S.A. (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 873,
+    "nombre": "DOC S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 874,
+    "nombre": "GRAN LIBERTADOR S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 875,
+    "nombre": "DON PEDRO S.A. (RODEO DEL MEDIO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 876,
+    "nombre": "SERVISUR S.R.L. (AGROENERGIA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 877,
+    "nombre": "LA ESTACION S.A. (TUNUYAN)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 878,
+    "nombre": "EL RUTERO S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 879,
+    "nombre": "OPEN 25 BO247 L247",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 880,
+    "nombre": "GO BAR L101- BOMBAL FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 881,
+    "nombre": "GO BAR L109- SAN ISIDRO FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 882,
+    "nombre": "GO BAR L110- LAS HERAS FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 883,
+    "nombre": "GO BAR L103- SAN MARTIN FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 884,
+    "nombre": "AGENTES ROMERO S.A. (BO1)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 885,
+    "nombre": "AGENTES ROMERO S.A. (BO2)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 886,
+    "nombre": "AGENTES ROMERO S.A. (BO3)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 887,
+    "nombre": "DON PEDRO S.A. (SHELL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 888,
+    "nombre": "TREMEN S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 889,
+    "nombre": "ROMIEL S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 890,
+    "nombre": "MINIMARKET COYOTE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 891,
+    "nombre": "KIOSCOS YES L001 - SAN MARTIN SUR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 892,
+    "nombre": "GO BAR L104- LUJAN FRQ NO USAR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 893,
+    "nombre": "GO BAR L102- UNIMEV FRQ NO USAR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 894,
+    "nombre": "GO BAR L111- MAR DEL PLATA FRQ NO USAR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 895,
+    "nombre": "ECOMAT",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 896,
+    "nombre": "C&D SOLUCIONES TECNICAS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 897,
+    "nombre": "PETROANDINA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 898,
+    "nombre": "GO BAR L111- MAR DEL PLATA FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 899,
+    "nombre": "GO BAR L104- LUJAN FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 900,
+    "nombre": "GO BAR L102- UNIMEV FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 901,
+    "nombre": "OPEN 25 BO119 L119",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 902,
+    "nombre": "OPEN 25 BO76 L76",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 903,
+    "nombre": "OPEN 25 BO169 L169",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 904,
+    "nombre": "OPEN 25 L701 TRAILER",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 905,
+    "nombre": "AB INGENIERIA SH LUZURIAGA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 906,
+    "nombre": "PETROLFE S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 907,
+    "nombre": "REGI LA COCHA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 908,
+    "nombre": "BOTTAZZINI ALICIA Y OTROS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 909,
+    "nombre": "SUHAIMAN YAMILA Y OTROS (LA CHIMBA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 910,
+    "nombre": "KIOSCOS YES L002 - GARIBALDI 88",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 911,
+    "nombre": "KIOSCOS YES L003 - CATAMARCA 148",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 912,
+    "nombre": "GO BAR L107- CORRIENTES FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 913,
+    "nombre": "GO BAR L108- SAN LUIS FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 914,
+    "nombre": "NOBREGA ELISA ALCIRA (LAPRIDA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 915,
+    "nombre": "OPEN 25 BO66 L66",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 916,
+    "nombre": "OPEN 25 BO55 L55",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 917,
+    "nombre": "LOS TEPUES S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 918,
+    "nombre": "MERCEN S.A. TAPIALES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 919,
+    "nombre": "UNENS S.R.L. C.A.B.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 920,
+    "nombre": "ABANILLAS S.A. LOMAS DE ZAMORA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 921,
+    "nombre": "CAAGUAZU GAS S.A. LANUS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 922,
+    "nombre": "GO BAR L115- URQUIZA FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 923,
+    "nombre": "KEH-COM S.A. BO5 PERGAMINO RUTA 8",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 924,
+    "nombre": "OPEN 25 BO057 L057",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 925,
+    "nombre": "GO BAR L114- DORREGO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 926,
+    "nombre": "OPEN 25 BO008 L199",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 927,
+    "nombre": "GO BAR L097- LOCAL VIRTUAL ADMINISTRACION",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 928,
+    "nombre": "KIOSCOS YES L004 - PEATONAL 211",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 929,
+    "nombre": "KIOSCOS YES L005 - CATAMARCA 44",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 930,
+    "nombre": "KIOSCOS YES L103 - ARISTIDES 625",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 931,
+    "nombre": "BAHLER JAVIER Y BAHLER RUBEN SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 932,
+    "nombre": "ADIEGO CLAUDIO LUIS - RIO NEGRO - DRUGSTORE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 933,
+    "nombre": "PROINCO S.A. AV. LA PLATA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 934,
+    "nombre": "GERK & CIA S.A. BO 2 LA CONSULTA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 935,
+    "nombre": "GASOLEO S.A. SUIPACHA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 936,
+    "nombre": "COOP.DE TRABAJO RUMI WASI LTDA. CONSTRUCTORA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 937,
+    "nombre": "VOLCAN DE FUEGO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 938,
+    "nombre": "LA TERCERA DEL OESTE S.R.L. LUJAN BS.AS.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 939,
+    "nombre": "LMG FULL SERVICE SA BERISSO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 940,
+    "nombre": "EL PARQUE DE CEIBAS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 941,
+    "nombre": "ESTACION PUNTO PANORAMICO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 942,
+    "nombre": "AB INGENIERIA SH GUAYMALLEN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 943,
+    "nombre": "AB INGENIERIA SH MAIPU",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 944,
+    "nombre": "AB INGENIERIA SH CORRALITOS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 945,
+    "nombre": "AB INGENIERIA SH HEAD OFFICE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 946,
+    "nombre": "GO BAR L116- CUARTA SECCION FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 947,
+    "nombre": "CALPETROL SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 948,
+    "nombre": "SANTA RITA COMBUSTIBLES SA (EX CIELO DEL BUEN AIRE SRL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 949,
+    "nombre": "COMERCIAL PUERTO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 950,
+    "nombre": "CASA BENJAMIN SARTORI S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 951,
+    "nombre": "PARDO Y PARDO S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 952,
+    "nombre": "GO BAR L117- LAS HERAS 2 FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 954,
+    "nombre": "ALDO DOMINGO SANCHEZ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 955,
+    "nombre": "CAR GAS S.A. TUCUMAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 956,
+    "nombre": "VALLE AGRICOLA S.A. TUNUYAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 957,
+    "nombre": "RUAY S.R.L. CATAMARCA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 958,
+    "nombre": "LA FRONTERA ESTACION DE SERVICIO S.R.L.(QUIMILI)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 959,
+    "nombre": "IBACETA BO 02 - SUC. AV. SAN MARTIN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 960,
+    "nombre": "VIMOGAS SUR S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 961,
+    "nombre": "WINE GAS S.A. PANAMERICANA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 962,
+    "nombre": "GO BAR L118- VILLA MERCEDES FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 963,
+    "nombre": "GO BAR L005 - DEPOSITO EMPRESA VIRTUAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 965,
+    "nombre": "GO BAR L051- EVENTOS EMPRESA VIRTUAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 966,
+    "nombre": "SERVICIOS CIPOLLETTI SRL  - 2 ESMERALDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 967,
+    "nombre": "MR COMBUSTIBLES S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 968,
+    "nombre": "LAVAYEN JULIAN MARCELO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 969,
+    "nombre": "LAPACO AUGUSTO GRAL. DANIEL CERRI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 970,
+    "nombre": "CARLETTI HNOS SRL APIES 99017",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 971,
+    "nombre": "LA CORDILLERA S.R.L. LAS LEÑAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 972,
+    "nombre": "REY Y CIA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 973,
+    "nombre": "KEH-COM S.A. BO4 PERGAMINO CENTRO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 974,
+    "nombre": "KEH-COM S.A. BO1 PEÑA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 975,
+    "nombre": "KEH-COM S.A. BO2 URQUIZA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 976,
+    "nombre": "KEH-COM S.A. BO3 MAYORISTA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 977,
+    "nombre": "KEH-COM S.A. HEAD OFFICE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 978,
+    "nombre": "GAS IMPULSO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 979,
+    "nombre": "GO BAR L119- SAN JOSE FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 980,
+    "nombre": "BENEDETTI (ALMA S.R.L.) MAS CARNE GENERAL PAZ (EX-EUSEBIO BLANCO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 981,
+    "nombre": "BENEDETTI (ALMA S.R.L.) SAN JAVIER",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 982,
+    "nombre": "PONTIERO ANTONIO PEDRO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 983,
+    "nombre": "PAMISA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 984,
+    "nombre": "GOENAGA NOEL EUGENIO BO 2 RUTA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 985,
+    "nombre": "GOENAGA NOEL EUGENIO HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 986,
+    "nombre": "GO BAR L120- LUJAN BUENOS AIRES FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 987,
+    "nombre": "GO BAR L121- CORTADERAS KM.11 MENDOZA FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 988,
+    "nombre": "BENEDETTI (PEQ. PLACERES) PEDRIEL BO1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 989,
+    "nombre": "PETRUM S.A. RESTAURAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 990,
+    "nombre": "ECKERDT JUAN Y LIZZI FABIO S.H. ENTRE RIOS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 991,
+    "nombre": "BENEDETTI ( ALMA S.R.L.) DALVIAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 992,
+    "nombre": "GO BAR L122- JUJUY FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 993,
+    "nombre": "GO BAR L123- SANTIAGO DEL ESTERO FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 994,
+    "nombre": "GO BAR L124- SAN JUAN FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 995,
+    "nombre": "DIVE S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 996,
+    "nombre": "LUCAM S.A. ESQUIU",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 997,
+    "nombre": "ASTIE DIESEL S.A.(MAYORISTA TUPUNGATO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 998,
+    "nombre": "FUA SAS (EX PETRUM)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1000,
+    "nombre": "GUIDO COMBUSTIBLES S.A. E.F.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1001,
+    "nombre": "ALLEGRETTI S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1002,
+    "nombre": "CORRO NORTE S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1003,
+    "nombre": "EL CURVON S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1004,
+    "nombre": "DIESANZ DISTRIBUIDOR S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1005,
+    "nombre": "COMBES COMBUSTIBLES S.A. CIUDAD",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1006,
+    "nombre": "LOMFAKO S.A. BO 1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1007,
+    "nombre": "LOMFAKO S.A. HEAD OFFICE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1008,
+    "nombre": "GO BAR L125- QUILMES FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1009,
+    "nombre": "GO BAR L126 - GRAL ALVEAR FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1010,
+    "nombre": "MALAISI VICTOR HUGO - CHIMBAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1011,
+    "nombre": "EL SURCO S.A.FERRETERIA BO1 (GRAL. PICO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1012,
+    "nombre": "UMPY S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1013,
+    "nombre": "TREMEN S.R.L. BARILOCHE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1014,
+    "nombre": "ABELAR SERVICIOS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1015,
+    "nombre": "VILLA REGINA S.A. MAR DEL PLATA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1016,
+    "nombre": "OSCAR LEANDRO S.R.L. CORRIENTES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1017,
+    "nombre": "OSCAR LEANDRO S.R.L. MAIPU",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1018,
+    "nombre": "OSCAR LEANDRO S.R.L. RUTA 12",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1019,
+    "nombre": "OSCAR LEANDRO S.R.L. RUTA 5",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1020,
+    "nombre": "ANGELA NESCI S.R.L. CENTENARIO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1021,
+    "nombre": "VALLE FULL S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1022,
+    "nombre": "OSCAR LEANDRO S.R.L. HEAD OFFICE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1023,
+    "nombre": "SOLACOM S.A. (GRUPO DUFAU)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1024,
+    "nombre": "LAFECOM S.A.(GRUPO DUFAU)LAFERRE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1025,
+    "nombre": "ESTACION MONTE GRANDE S.A. (GRUPO DUFAU)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1026,
+    "nombre": "DUFAU HNOS. S.A. (GRUPO DUFAU)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1027,
+    "nombre": "DUFAU HNOS DOS S.A. (GRUPO DUFAU)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1028,
+    "nombre": "CASACOM S.A. (GRUPO DUFAU)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1029,
+    "nombre": "JORGE S. COGNIGNI E HIJO SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1030,
+    "nombre": "KIOSCOS YES L007 - BELGRANO 1202",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1031,
+    "nombre": "EL TRIUNFO S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1032,
+    "nombre": "IBACETA BO 01 - CREDITOS Y DEPOSITO VIDELA CASTILLO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1033,
+    "nombre": "SERVIDUAL LUJAN S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1034,
+    "nombre": "GO BAR L20 - SAN LUIS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1035,
+    "nombre": "AUTOSUR RIO GRANDE SA TIERRA DEL FUEGO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1036,
+    "nombre": "GO BAR L127 - EL TORREON FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1037,
+    "nombre": "KIOSCOS YES L008 - ITALIA 5954 CHACRAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1038,
+    "nombre": "ORO VERDE S.A. ALBERDI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1039,
+    "nombre": "ORO VERDE S.A. GRANEROS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1040,
+    "nombre": "ORO VERDE S.A. LOS ALTOS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1041,
+    "nombre": "ORO VERDE S.A. EL ALFIL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1042,
+    "nombre": "ORO VERDE S.A. FRIAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1043,
+    "nombre": "UMPY S.R.L. VALLE VIEJO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1044,
+    "nombre": "BECHER ELENA ELIZABETH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1045,
+    "nombre": "LA AGRICOLA REGIONAL COOP. LTDA EX COOP. DIAMANTE LTDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1046,
+    "nombre": "CARNES PALUMBO SUPERMERCADO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1047,
+    "nombre": "GERK & CIA S.A. BO 3 TUNUYAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1048,
+    "nombre": "GERK & CIA S.A. HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1049,
+    "nombre": "IBACETA BO 07 - DEPOSITO ARROLLABES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1050,
+    "nombre": "GRUPO FIP SAN FERNANDO YCA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1051,
+    "nombre": "GO BAR L128 - BAHIA BLANCA FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1052,
+    "nombre": "SERVI COMPRAS PARQUE (JUAN B. JUSTO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1053,
+    "nombre": "JONTE 3386 S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1054,
+    "nombre": "ENARTRAC S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1055,
+    "nombre": "PETROGAS TANDIL CENTRO SA HEAD OFFICE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1056,
+    "nombre": "MARIJO S.A.(CASTELLI BO3)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1057,
+    "nombre": "PALDEN  S.A HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1058,
+    "nombre": "PALDEN  S.A BO 2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1059,
+    "nombre": "CARNES PALUMBO HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1060,
+    "nombre": "DEMO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1061,
+    "nombre": "BEST & BEST HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1062,
+    "nombre": "SANCHEZ SILLERO HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1063,
+    "nombre": "ACA OLIVOS (LOMA OLIVOS) - TIENDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1064,
+    "nombre": "FUEL SERVICE S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1065,
+    "nombre": "GNC DEL VISO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1066,
+    "nombre": "25 DE JUNIO S.A. ALMIRANTE BROWN SUCURSAL 1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1067,
+    "nombre": "25 DE JUNIO S.A. 25 DE JUNIO 201 SUCURSAL 2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1068,
+    "nombre": "EMPRESA DUVAL FLORES S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1069,
+    "nombre": "MONTERO HORACIO MARCELINO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1070,
+    "nombre": "ALCIDES E.PHISALIX S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1071,
+    "nombre": "CARNES PALUMBO MAYORISTA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1072,
+    "nombre": "CARNES PALUMBO ALGARROBAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1073,
+    "nombre": "CARNES PALUMBO ABASTO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1074,
+    "nombre": "JUSMA ARGENTINA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1075,
+    "nombre": "KOMO SAICI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1076,
+    "nombre": "CARNES PALUMBO BARRIO UNIMEV",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1077,
+    "nombre": "GO BAR L129 - ROSARIO FRQ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1078,
+    "nombre": "AREST S.A. FRQ 3217",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1079,
+    "nombre": "COMBUSTIBLES Y SERVICIOS S.A. FRQ 500 - GRUPO AREST",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1080,
+    "nombre": "PETROARSA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1081,
+    "nombre": "CARNES PALUMBO PRIMITIVO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1082,
+    "nombre": "ESTACION DE SERVICIO GENERAL VICTORICA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1083,
+    "nombre": "CITY CENTER S.A. HEAD OFFICE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1084,
+    "nombre": "CARNES PALUMBO LRESES II - SAN JUAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1085,
+    "nombre": "CARNES PALUMBO PANAMERICANA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1086,
+    "nombre": "CARNES PALUMBO LA PALOMA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1087,
+    "nombre": "CARNES PALUMBO SARMIENTO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1088,
+    "nombre": "CARNES PALUMBO URQUIZA 01 DORREGO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1089,
+    "nombre": "CARNES PALUMBO URQUIZA 02 VILLA NUEVA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1090,
+    "nombre": "CARNES PALUMBO MICHELI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1091,
+    "nombre": "LOLAPALUZA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1092,
+    "nombre": "CARNES PALUMBO ABASTO MICHELI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1093,
+    "nombre": "CARNES PALUMBO HEAD OFFICE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1094,
+    "nombre": "OISLY S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1095,
+    "nombre": "NUSS S.A. HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1096,
+    "nombre": "RUIZ HNOS SRL HEAD OFFICE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1097,
+    "nombre": "MAXFA S.A. GNC DON PEDRO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1098,
+    "nombre": "LA TRI-VIA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1099,
+    "nombre": "VIRTUAL BENEDETTI ( ALMA S.R.L.)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1100,
+    "nombre": "SEDERIA MONTEMAR BO1 TEXTIL CENTER",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1101,
+    "nombre": "COMBUSTIBLES BARCELO S.R.L. - APIES 2983 - ACHA Y MOSCONI - RAWSON - ESTACION 3",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1102,
+    "nombre": "IBACETA BO 09 - GENERAL SAN MARTIN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1103,
+    "nombre": "IBACETA BO 04 - SAN LUIS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1104,
+    "nombre": "IBACETA BO 10 - SERVICIO TECNICO CENTRAL - LOCAL VIRTUAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1105,
+    "nombre": "IBACETA BO 03 - SAN JUAN CALLE - LOCAL VIRTUAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1106,
+    "nombre": "IBACETA BO 05 - COBRANZAS Y ADMINISTRACION - LOCAL VIRTUAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1107,
+    "nombre": "IBACETA BO 06 - SAN RAFAEL CALLE - LOCAL VIRTUAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1108,
+    "nombre": "IBACETA BO 08 - MENDOZA CALLE - LOCAL VIRTUAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1109,
+    "nombre": "ECHANIZ HNOS S.A. MONTE MAIZ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1110,
+    "nombre": "PETROCAÑUELAS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1111,
+    "nombre": "NEDER Y ROJO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1112,
+    "nombre": "RAGASA GNC S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1113,
+    "nombre": "FULL SERVICE S.R.L. (POZO HONDO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1114,
+    "nombre": "PETROANDES (CLOP)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1115,
+    "nombre": "EL SURCO S.A.FERRETERIA BO2 (HUINCARENANCO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1116,
+    "nombre": "EL SURCO S.A.FERRETERIA HEAD OFFICE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1117,
+    "nombre": "MELE BROCCA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1118,
+    "nombre": "ACA CENTRAL (AUTONAVI SRL)  - TIENDA - APIES 83",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1119,
+    "nombre": "ACA CS CORDOBA (ACA SABATTINI - ZAREK) - TIENDA - APIES 2100",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1120,
+    "nombre": "CERVETTI S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1121,
+    "nombre": "GCG LUMAJ SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1122,
+    "nombre": "NUSS VILLANUEVA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1123,
+    "nombre": "OSCAR  GARCIA E HIJOS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1124,
+    "nombre": "OSCAR  DUFAU HNOS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1125,
+    "nombre": "FURFANTO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1126,
+    "nombre": "ANTONIO MERCURY (ESCOBAR)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1127,
+    "nombre": "FABIAN ENRICO SRL (BO2)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1128,
+    "nombre": "FABIAN ENRICO SRL (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1129,
+    "nombre": "DA COSTA E HIJOS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1130,
+    "nombre": "PETROANDES AGRO (BO2)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1131,
+    "nombre": "PETROANDES MENDOZA SA (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1132,
+    "nombre": "SRUR S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1133,
+    "nombre": "ASAMUL SRL (SHELL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1134,
+    "nombre": "EMECO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1135,
+    "nombre": "JNF AMBIENTAL S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1136,
+    "nombre": "RIVARA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1137,
+    "nombre": "COMBUSTIBLES CANNING SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1138,
+    "nombre": "MARINA BALSA SHOPPING SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1139,
+    "nombre": "DA COSTA E HIJOS BOSQUE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1140,
+    "nombre": "RAMON FRANCO NORTE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1141,
+    "nombre": "SEDERIA MONTEMAR Y SOLICAN HEAD OFFICE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1142,
+    "nombre": "EMPRENDIMIENTOS CHACON ALONSO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1143,
+    "nombre": "TRINIDAD PESCIALLO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1144,
+    "nombre": "COR SHOP DEL SUR S.A.S. (FERREYRA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1145,
+    "nombre": "FIMPEL DANIEL (JP ENERGY)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1146,
+    "nombre": "MORAN MANERA BO 1 CATRILO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1147,
+    "nombre": "CAMACHO CAMACHO VILLASENIN S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1148,
+    "nombre": "MORAN MANERA Y OTROS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1149,
+    "nombre": "KREITZ JUAN EDUARDO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1150,
+    "nombre": "AISHITEERU SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1151,
+    "nombre": "LAFECOM S.A.ISIDRO CASANOVA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1152,
+    "nombre": "COR SHOP DEL SUR SAS (OHIGGINS)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1153,
+    "nombre": "SUCESORES DE ORLANDO LUIS CRIGNOLA S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1154,
+    "nombre": "PETRO CAT SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1155,
+    "nombre": "ACA PASO DE JAMA (FERMART) - TIENDA- APIES 30859",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1156,
+    "nombre": "OPERADORA LATINA S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1157,
+    "nombre": "POTENXA S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1158,
+    "nombre": "GASPARQUE S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1159,
+    "nombre": "LUBRE S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1160,
+    "nombre": "SGF COMBUSTIBLES Y SERVICIOS S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1161,
+    "nombre": "DANPE S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1162,
+    "nombre": "AGROMARE S.R.L (VERONICA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1163,
+    "nombre": "AGROMARE S.R.L (VIEYTES)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1164,
+    "nombre": "ESTACION DE SERVICIOS APOLO S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1165,
+    "nombre": "FORTIN HUILICHES S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1166,
+    "nombre": "LIBERTY LION SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1167,
+    "nombre": "CAROLINA MARIA MARCELA BLASCO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1168,
+    "nombre": "FRIULI S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1169,
+    "nombre": "SERVICIO ESCALADA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1170,
+    "nombre": "MATIAS AMENGUAL SRL (RUTA NAC 38)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1171,
+    "nombre": "CARGAS COMBUSTIBLES S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1172,
+    "nombre": "RIO TUNUYAN S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1173,
+    "nombre": "ASC S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1174,
+    "nombre": "DISAL GNC S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1175,
+    "nombre": "LAS OLAS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1177,
+    "nombre": "AGRO RUTA 36 SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1178,
+    "nombre": "MORAN MANERA Y OTROS (MZA GRAL ALVEAR)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1179,
+    "nombre": "DEL GOLF COMBUSTIBLES (3 DE FEBRERO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1180,
+    "nombre": "TERGEN SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1181,
+    "nombre": "ESTACION RAMOS S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1182,
+    "nombre": "MARIJO BO1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1183,
+    "nombre": "HO COMBUSTIBLES Y SERVICIOS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1184,
+    "nombre": "MARIJO HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1185,
+    "nombre": "COMBUSTIBLES DANIELE S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1186,
+    "nombre": "IBP SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1188,
+    "nombre": "Servicios Pilar 2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1189,
+    "nombre": "ATALAYA S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1190,
+    "nombre": "CATAMARCA COMBUSTIBLE S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1191,
+    "nombre": "PASQUINI INES GRACIELA(EX ENERGY VISION)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1192,
+    "nombre": "NUEVO MADERO SRL (ORO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1193,
+    "nombre": "FECOPA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1194,
+    "nombre": "EL TRIANGULO S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1196,
+    "nombre": "LLANTAY S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1198,
+    "nombre": "BLANCO Y ASOCIADOS S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1199,
+    "nombre": "GRUPO FIP HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1200,
+    "nombre": "LA AGRICOLA REGIONAL COOP. LTDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1201,
+    "nombre": "GUARESCHI Y ASOCIADOS RIO TERCERO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1202,
+    "nombre": "GUARESCHI Y ASOCIADOS VILLA MARIA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1203,
+    "nombre": "GUARESCHI Y ASOCIADOS ALMAFUERTE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1204,
+    "nombre": "MV COMBUSTIBLES S.A.S",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1205,
+    "nombre": "MORALES EDUARDO CIRO DEL VALLE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1206,
+    "nombre": "SOLICAN SA - B06 BARRACAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1207,
+    "nombre": "SOLICAN SA - B02 SOL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1208,
+    "nombre": "SACOMA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1209,
+    "nombre": "SIFER GAS S.A (CENTRAL HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1210,
+    "nombre": "SIFER GAS S.A (CORRIENTES 1)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1211,
+    "nombre": "SIFER GAS S.A (FORMOSA CAPITAL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1212,
+    "nombre": "ANSIS GAS II S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1213,
+    "nombre": "CALITRI F.L Y NIETO A.H",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1215,
+    "nombre": "MANATRICIO NOELIA Y MANATRICIO VANESA S.H.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1216,
+    "nombre": "SOLICAN SA - B09 BUENOS AIRES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1217,
+    "nombre": "SOLICAN SA - B010 LA TIENDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1218,
+    "nombre": "SOLICAN SA - B08 NEUQUEN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1219,
+    "nombre": "ESTACION TRES SOLES S.R.L",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1220,
+    "nombre": "ARIEL IGNOMERIELLO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1222,
+    "nombre": "SUPER SERVICIOS OLIVOS S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1223,
+    "nombre": "LA PAMPAGONIA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1224,
+    "nombre": "ABRIGO HERNANDO S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1225,
+    "nombre": "SOLICAN S.A (HO) - NO USAR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1226,
+    "nombre": "SUMAJ S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1227,
+    "nombre": "BARBIERI HNOS S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1228,
+    "nombre": "AM EMPRENDIMIENTOS S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1231,
+    "nombre": "JUAN FRANCISCO NICOLAS MUÑOZ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1232,
+    "nombre": "ATENCIO GUILLERMO TOMAS.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1233,
+    "nombre": "NUEVO MADERO S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1234,
+    "nombre": "SILOE S.A.S",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1237,
+    "nombre": "KREITZ JUAN EDUARDO - VILALLONGA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1238,
+    "nombre": "BENEDETTI (ALMA S.R.L)LOCAL 16 SAN MARTIN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1239,
+    "nombre": "LA CUARTA S.A. (FRENTE)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1240,
+    "nombre": "KIOSCOS YES L0010 - ARISTIDES 156",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1241,
+    "nombre": "BENEDETTI (ALMA S.R.L)LOCAL 98 PANADERIA CERVANTES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1242,
+    "nombre": "VASA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1243,
+    "nombre": "ESTACION CENTRAL S.A.S.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1244,
+    "nombre": "BENEDETTI (ALMA S.R.L) LOCAL 17 ARAUCA MALL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1245,
+    "nombre": "SEDERIA MONTEMAR - B03 MONTEMAR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1246,
+    "nombre": "SOLICAN SA - B05 ESPEJO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1247,
+    "nombre": "ARELEK SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1248,
+    "nombre": "JB SERVICIOS Y COMBUSTIBLES SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1249,
+    "nombre": "MALVASIO PICAT S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1250,
+    "nombre": "MARIA M DE SOLDANO Y CIA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1251,
+    "nombre": "LA COMERCIAL GAS (VICUÑA MACKENA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1252,
+    "nombre": "MANERA OSCAR S.S. Y OSCAR A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1253,
+    "nombre": "PARADA NORTE SRL (EX MORAN MANERA CATRILO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1254,
+    "nombre": "ESTACION CENTRAL S.A.S. (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1255,
+    "nombre": "MARIA M DE SOLDANO Y CIA SRL (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1256,
+    "nombre": "MARIA M DE SOLDANO Y CIA SRL (BO2)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1257,
+    "nombre": "ESTRADA MERCEDES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1258,
+    "nombre": "KIOSCOS YES L0011 - SAN MARTIN 1282",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1259,
+    "nombre": "SERVI RUTA S.R.L.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1260,
+    "nombre": "SARAFE S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1261,
+    "nombre": "BIANCHI SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1262,
+    "nombre": "INTEGRAL MENDOZA S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1264,
+    "nombre": "NUSS PATRICIAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1265,
+    "nombre": "OGP CAÑUELAS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1266,
+    "nombre": "GNC DE LA COSTA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1267,
+    "nombre": "CONSORCIO DE URBANIZACION MENDOZA NORTE COUNTRY I",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1268,
+    "nombre": "ELOSEGUI HNOS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1269,
+    "nombre": "SUCESION DE PATTERSON PEDRO ISMAEL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1270,
+    "nombre": "COMERCIAL DIEGO (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1271,
+    "nombre": "AMENGUAL (LOS ALTOS)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1272,
+    "nombre": "SEDERIA MONTEMAR - B07 SAN JUAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1273,
+    "nombre": "FERNANDEZ HUGO RENE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1275,
+    "nombre": "CONSORCIO DE URBANIZACION SIERRAS DE SAN LUIS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1276,
+    "nombre": "SIFER GAS S.A (SAN JUAN)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1277,
+    "nombre": "KEH-COM S.A. BO6 PERGAMINO RUTA 188",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1278,
+    "nombre": "BENEDETTI (PEQ. PLACERES) BO5",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1279,
+    "nombre": "MARIJO S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1284,
+    "nombre": "LA PANAMERICANA S.C.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1285,
+    "nombre": "ACA FLORES (CAPOMO SRL) - TIENDA + LUBRI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1286,
+    "nombre": "AMIEL MARCELO SALOMON",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1287,
+    "nombre": "BIELVA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1288,
+    "nombre": "CARCAM SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1289,
+    "nombre": "ANTONIO PIAZENTINI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1290,
+    "nombre": "ORLANDO MANUEL AGENO E HIJOS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1291,
+    "nombre": "SUCESORES DE AMLETO SERGIANI SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1292,
+    "nombre": "SUR CARBURANTES SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1293,
+    "nombre": "PAMPETROL SAPEM",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1294,
+    "nombre": "NAHUEN SRL (GRUPO REGI)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1295,
+    "nombre": "SUC. DE ADROVER CARLOS E. ADM ADROVER JAVIER ALE (EX ADESERV SA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1296,
+    "nombre": "WIND SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1297,
+    "nombre": "LUCENA TERESITA ENCARNACION",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1298,
+    "nombre": "ACEICOM SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1299,
+    "nombre": "MUNICIPALIDAD DE TOAY (PAMPETROL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1300,
+    "nombre": "ESTACION AMERICA 210 SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1301,
+    "nombre": "KM 248 SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1303,
+    "nombre": "SUCESION DE FELIPE SCHIAVONE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1304,
+    "nombre": "PETRONORTE SA (SAN MIGUEL DE TUCUMAN RUTA 301)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1305,
+    "nombre": "CRIPER SACITAFI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1306,
+    "nombre": "CAMAN SRL (DAPSA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1307,
+    "nombre": "MARANELLO OIL SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1308,
+    "nombre": "LA COLINA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1309,
+    "nombre": "ALBERTO CROSSETTI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1310,
+    "nombre": "SPAHN ROBERTO Y SPAHN GISELA SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1311,
+    "nombre": "RUTA 17 SA (FERRAROTTI CASTILLO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1312,
+    "nombre": "SERBE SRL RUTA 24 KM 37 (EX BERRUEZO JOSE ANTONIO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1313,
+    "nombre": "PARQUE CONSTITUCION SRL (MAR DEL PLATA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1314,
+    "nombre": "PETACCIO Y GERCOVICH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1315,
+    "nombre": "SUCESION DE ROBERTO LUIS PETACCIO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1316,
+    "nombre": "KIOSCOS YES L102- FRANQUICIA -LAOS SERGIO ENRIQUE - EX BO9 - PUEYRREDON 4",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1317,
+    "nombre": "CAYO LORENZA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1318,
+    "nombre": "VALLE DEL BERMEJO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1319,
+    "nombre": "SHIGA MOTORS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1320,
+    "nombre": "INTEGRAL ESTACION SOLA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1321,
+    "nombre": "GNC FERRARI SRL (MERLO CENTRO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1322,
+    "nombre": "GNC MERLO NORTE SRL (MERLO NORTE)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1323,
+    "nombre": "GNC FERRARI SRL (RUTA 200)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1324,
+    "nombre": "LEONARDO BRIGIDO Y CIA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1325,
+    "nombre": "EL EMPALME SRL EL PINGO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1326,
+    "nombre": "VASA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1327,
+    "nombre": "DON VEGA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1328,
+    "nombre": "CARLOMAGNO GERARDO CAMILO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1329,
+    "nombre": "CINCO BOCAS SRL - EX MENDEZ NORMA RAQUEL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1330,
+    "nombre": "BEL BOURLOT SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1331,
+    "nombre": "ANTONIO CARGNEL E HIJOS SC",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1332,
+    "nombre": "HORACIO BRIGIDO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1333,
+    "nombre": "TINARI SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1334,
+    "nombre": "ESTACION DE SERVICIO RUTA 11 SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1335,
+    "nombre": "EL EMPALME SRL PARANA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1336,
+    "nombre": "POMATTO COES SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1337,
+    "nombre": "RIVERA INDARTE NORTE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1338,
+    "nombre": "COOP AGROP DE GRANJEROS UNIDOS DE CHACABUCO LTDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1339,
+    "nombre": "SERVIFE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1340,
+    "nombre": "COMBUSTIBLES BARCELO S.R.L. - APIES 31227 - CALLE 11 Y MENDOZA - POCITO - ESTACION 9",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1341,
+    "nombre": "COMBUSTIBLES BARCELO S.R.L. - APIES 2660 - MENDOZA Y SIVORI - RAWSON - ESTACION 2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1342,
+    "nombre": "ESTACION DE SERVICIOS 03 SRL PELLEGRINI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1343,
+    "nombre": "ESTACION DE SERVICIOS 03 SRL MITRE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1344,
+    "nombre": "GEOGAS SRL AV SAENZ PEÑA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1345,
+    "nombre": "GEOGAS SRL AV JUJUY",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1346,
+    "nombre": "GEOGAS SRL AV SAENZ HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1347,
+    "nombre": "KIOSCOS YES HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1348,
+    "nombre": "KIOSCOS YES BO CATAMARCA 44",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1349,
+    "nombre": "GRAL PACHECO COMBUSTIBLES SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1350,
+    "nombre": "COMERCIAL DIEGO SRL - CAÑADA - BO4",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1351,
+    "nombre": "AGROMERIDIANO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1353,
+    "nombre": "PESUES SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1354,
+    "nombre": "SIFER GAS SA (SAENZ PEÑA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1355,
+    "nombre": "LOMA SACIA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1356,
+    "nombre": "TODO CAMPO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1357,
+    "nombre": "CAMINO A CASA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1358,
+    "nombre": "PARG SRL RIO GALLEGOS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1359,
+    "nombre": "AVANZAR SRL ESTACION CENTRO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1360,
+    "nombre": "FULL SERVICE S.R.L. (RUTA 38 ALBERDI BO7)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1361,
+    "nombre": "MASCAL SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1364,
+    "nombre": "MARIO ALFREDO TAGLIAFERRI (BILLINGURST)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1365,
+    "nombre": "LAFECOM SA (MARTINEZ)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1366,
+    "nombre": "DUFAU HNOS DOS SA (DEL PINO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1367,
+    "nombre": "LA CUARTA S.A. (AXION)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1368,
+    "nombre": "NELIO R PIGNATTA Y CIA SA (ONCATIVO) - APIES 2163",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1369,
+    "nombre": "ESTACION DINKELDEIN SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1370,
+    "nombre": "TARSVA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1371,
+    "nombre": "ANAYVE SAS - (EX GOURMETLAND)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1372,
+    "nombre": "OESER SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1373,
+    "nombre": "CR88 SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1374,
+    "nombre": "COMBUSTIBLES PARANA SA (PARG PARANA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1375,
+    "nombre": "25 ALVEAR SRL (PARG 25 DE MAYO - HEAD OFFICE)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1376,
+    "nombre": "GALACTIC SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1377,
+    "nombre": "GRUPO PIGNATTA S.A. (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1378,
+    "nombre": "KIOSCOS YES L013 - Rodriguez Peña 1349",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1379,
+    "nombre": "KIOSCOS YES L014 - Las Heras 409",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1380,
+    "nombre": "PARG SRL HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1381,
+    "nombre": "ESTACION DE SERVICIOS BONANNO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1382,
+    "nombre": "SERVICENTRO LOS REMEROS (NORDELTA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1383,
+    "nombre": "LUCAM S.A. CIRCUNVALACION",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1384,
+    "nombre": "GV SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1386,
+    "nombre": "LA AGRICOLA REGIONAL COOP. LTDA EX COOP. CRESPO LTDA (9 DE JULIO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1387,
+    "nombre": "SDP SA (MAIPU-GULF)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1388,
+    "nombre": "ERGON SA (25 DE MAYO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1389,
+    "nombre": "ERGON SA (LAVALLE)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1390,
+    "nombre": "SDA SA (CARRODILLA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1391,
+    "nombre": "TDS SA (PERDRIEL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1392,
+    "nombre": "LIBRA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1393,
+    "nombre": "JUTE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1394,
+    "nombre": "PAM GAS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1395,
+    "nombre": "CHAVES RAQUEL ESTHER",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1396,
+    "nombre": "SANTA RITA COMBUSTIBLES SA calle Libertad",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1397,
+    "nombre": "PAN AMERICAN ENERGY LLC (KIOSCO DIGITAL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1398,
+    "nombre": "LISTIN SA (TUCUMAN)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1399,
+    "nombre": "SM COMBUSTIBLES SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1400,
+    "nombre": "LISTIN SA L01 AZCUENAGA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1401,
+    "nombre": "LISTIN SA L02 SAN MARTIN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1402,
+    "nombre": "LISTIN SA L03 RUFINO ORTEGA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1403,
+    "nombre": "DE LA VIRGEN GNC SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1404,
+    "nombre": "DUAL CENTER GROUP SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1405,
+    "nombre": "APALA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1406,
+    "nombre": "MILENIUM SRL BO2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1407,
+    "nombre": "MILENIUM SRL HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1408,
+    "nombre": "EL PARADOR SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1409,
+    "nombre": "NORESTE SANTIAGUEÑA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1410,
+    "nombre": "PROMOVIL SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1411,
+    "nombre": "59 SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1412,
+    "nombre": "ESTACION DE SERVICIO PUNTA CHICA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1413,
+    "nombre": "RAIZEN ARGENTINA SAU",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1414,
+    "nombre": "SABY HNOS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1415,
+    "nombre": "TURCUMAN HNOS SCC",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1417,
+    "nombre": "KREITZ JUAN EDUARDO - HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1418,
+    "nombre": "GRUPO KINLEZ HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1419,
+    "nombre": "GRUPO KINLEZ BARILOCHE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1420,
+    "nombre": "ESTACION DE SERVICIOS J.V. GONZALEZ SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1421,
+    "nombre": "GANP SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1422,
+    "nombre": "NEUMASHOP NARVAEZ SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1423,
+    "nombre": "MAGICOS EFS SAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1424,
+    "nombre": "SANTA RITA SOCIEDAD COLECTIVA AV. REPUBLICA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1425,
+    "nombre": "ALBERDI COMBUSTIBLES Y LUBRICANTES SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1426,
+    "nombre": "PROEXCEL SA - AV ANGEL T DE ALVEAR 2323 - DON TORCUATO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1427,
+    "nombre": "FRANCISCO HIPOLITO GORTARI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1428,
+    "nombre": "QUITRAL COM SA - QUILMES GARIBALDI 199",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1429,
+    "nombre": "REIMS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1430,
+    "nombre": "TERANO SA YPF VEDIA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1431,
+    "nombre": "TERANO SA YPF EL TRIUNFO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1432,
+    "nombre": "LA PICHONA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1433,
+    "nombre": "PETROLERA ANVA SRL (LULES)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1434,
+    "nombre": "M LOGISTICA Y DISTRIBUCION SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1435,
+    "nombre": "COMBUSTIBLES DE LA FRONTERA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1436,
+    "nombre": "JOSE MONTERO SACAFI E I",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1437,
+    "nombre": "KIOSCOS YES SUC 106 (FERNANDO VEGA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1438,
+    "nombre": "BERSEZIO BOSETTI MARIA CHIARA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1440,
+    "nombre": "ANAYVE SAS - (EX GOURMETLAND VACA NEGRA -  L06 SAN MARTIN)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1441,
+    "nombre": "ANAYVE SAS - ( EX GOURMETLAND VACA NEGRA - L03 GENERAL PAZ)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1442,
+    "nombre": "ANAYVE SAS (EX GOURMETLAND VACA NEGRA -  L05 TIBURCIO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1443,
+    "nombre": "LA ROTONDA COMBUSTIBLES SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1444,
+    "nombre": "9 DE JULIO SERVICIOS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1445,
+    "nombre": "GNC MERLO OIL SRL (MERLO OIL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1446,
+    "nombre": "MACCHI ALBERTO LUIS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1447,
+    "nombre": "LOS ACCESOS 3 SRL AP800",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1448,
+    "nombre": "SERVILUJAN COMBUSTIBLES SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1449,
+    "nombre": "AKEV ENERGIA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1450,
+    "nombre": "OIL PETRO SALSIPUEDES SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1451,
+    "nombre": "LOS ITARES SRL 2 MONTERRICO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1452,
+    "nombre": "CALAFATE ENERGY SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1453,
+    "nombre": "RAFITA SA CAÑUELAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1454,
+    "nombre": "RAFITA SA ROQUE PEREZ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1455,
+    "nombre": "VALCARA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1456,
+    "nombre": "GRUPO ERGON HO SDP",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1458,
+    "nombre": "TRIGAS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1459,
+    "nombre": "PINAR SACIAYS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1460,
+    "nombre": "ROSA PEREZ MAHIQUES (MAYPF)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1461,
+    "nombre": "PROCOM SACIFIA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1462,
+    "nombre": "ESTACION RUTA 8 Y PANAMERICANA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1463,
+    "nombre": "VERACRUZ SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1464,
+    "nombre": "SERVICE NAON SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1465,
+    "nombre": "VIRGEN DEL VALLE HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1466,
+    "nombre": "EL GUAEMBE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1467,
+    "nombre": "ANTONELLA OGNIO (COEMBOTA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1468,
+    "nombre": "ECONORTESHOP SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1469,
+    "nombre": "DISTRIBUIDORA BEL MAR CASARES SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1470,
+    "nombre": "AYJ SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1471,
+    "nombre": "BENEDETTI (PEQ. PLACERES) BO7 VIAMONTE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1473,
+    "nombre": "ANAYVE SAS (EX GOURMETLAND SUIPACHA L2)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1474,
+    "nombre": "ANAYVE SAS (EX GOURMETLAND CHACRAS)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1475,
+    "nombre": "PUGNI DAMIAN - KIOSCOS YES L107 -",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1476,
+    "nombre": "LA BALLESTA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1477,
+    "nombre": "LOS ACCESOS 3 SRL AP 151",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1478,
+    "nombre": "COMBUSTIBLES NICOLLS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1479,
+    "nombre": "COCEMAR SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1480,
+    "nombre": "VIRGEN DEL VALLE PALMARES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1481,
+    "nombre": "VIRGEN DEL VALLE UNIMEV",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1482,
+    "nombre": "VIRGEN DEL VALLE MAIPU",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1483,
+    "nombre": "APELLGRAN SAS (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1484,
+    "nombre": "APELLGRAN SAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1485,
+    "nombre": "APELLGRAN SAS (SAN LUIS)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1486,
+    "nombre": "MARIA DEL HUERTO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1487,
+    "nombre": "PETROSURCO S.A. NORTE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1488,
+    "nombre": "KIOSCOS YES L015 - CATAMARCA Y SAN MARTIN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1489,
+    "nombre": "MARIA HNOS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1490,
+    "nombre": "LA ROTONDA SAS - GRUPO ALT - BO 12",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1491,
+    "nombre": "ENERSE SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1492,
+    "nombre": "LIERES SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1493,
+    "nombre": "ALT SH - SHELL ALTA - VILLA CARLOS PAZ - BO 1",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1494,
+    "nombre": "ALT SA - SHELL - CORDODBA - BO 2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1495,
+    "nombre": "ALT SA - SHELL - VILLA GRAL. BELGRANO - BO 3",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1496,
+    "nombre": "ALT SA - AXION - ALTA GRACIA - BO 4",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1497,
+    "nombre": "ALT SH - SHELL ALTA GRACIA - BO 5",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1498,
+    "nombre": "ALT SH - INTIHUAN - ALTA GRACIA  - BO 6",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1499,
+    "nombre": "ALT  SH - YPF - ALTA GRACIA - BO 7",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1500,
+    "nombre": "ALT SH - AXION - RUTTA 5 ALTA GRACIA - BO 8",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1501,
+    "nombre": "ALT SH - AXION - L.V.ROSSI 41 ALTA GRACIA - BO 9",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1502,
+    "nombre": "ALT SH - HO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1503,
+    "nombre": "GNC SAN ROQUE - GRUPO ALT - BO 11",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1504,
+    "nombre": "TRINIGAS SRL - GRUPO ALT - BO 10",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1505,
+    "nombre": "ASAMIR SA -",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1506,
+    "nombre": "ASAMIR SA AVICOLA -",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1507,
+    "nombre": "VIRGEN DEL VALLE (CENTRO DE DISTRIBUCION)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1508,
+    "nombre": "JEMAGAS SAS (COLONIA CAROYA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1509,
+    "nombre": "JEMAGAS SAS (DEAN FUNES)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1510,
+    "nombre": "EL CONVOY SRL (SALTA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1511,
+    "nombre": "MB ENERGY SRL (SALTA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1512,
+    "nombre": "RUIZ BONAPARTE CESAR DANIEL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1513,
+    "nombre": "SUPER SERVICIOS SA (TIGRE)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1514,
+    "nombre": "ENERPLUS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1515,
+    "nombre": "SAGITARIOS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1516,
+    "nombre": "SAGITARIOS SRL (COLONIA DORA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1517,
+    "nombre": "ERRECABORDE CLAUDIA ANDREA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1518,
+    "nombre": "ALONSO CONSTANTINO RAUL (BENITO JUAREZ) CENTRAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1519,
+    "nombre": "FRANCISCO J DURA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1520,
+    "nombre": "PARADA NORTE SRL (MORAN MANERA CATRILO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1521,
+    "nombre": "MORAN MANERA Y OTROS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1522,
+    "nombre": "COMBUSTIBLES BARCELO S.R.L. - APIES 31155 - MAURIN ENTRE 6 Y 7 - POCITO - ESTACION 10",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1523,
+    "nombre": "LIDA SAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1524,
+    "nombre": "PARADOR SAN PEDRO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1525,
+    "nombre": "GNC BERAZATEGUI SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1526,
+    "nombre": "BOSSI ALDO JUAN  SA (LUJAN)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1527,
+    "nombre": "BOSSI ALDO JUAN  SA (MERCEDES)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1528,
+    "nombre": "BOSSI ALDO JUAN  SA (SUIPACHA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1529,
+    "nombre": "BIG BLU SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1530,
+    "nombre": "CASTAÑO AUTOVOX SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1531,
+    "nombre": "CASTAÑO AUTOVOX SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1532,
+    "nombre": "CASTAÑO RADZIUSZ SA (TEMPERLEY)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1533,
+    "nombre": "CASTAÑO RADZIUSZ SA (ADROGUE)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1534,
+    "nombre": "SUCESION DE GALLIANO CLAUDIO DANIEL SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1535,
+    "nombre": "GELTOKIA SAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1536,
+    "nombre": "GNC DEL OESTE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1537,
+    "nombre": "INV EST SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1538,
+    "nombre": "LAGUNA DE NAVARRO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1539,
+    "nombre": "ANDRES HORACIO Y ABDALA EVAR ORLANDO SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1540,
+    "nombre": "TESTA COMBUSTIBLES SRL (SALTO RUTA 31)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1541,
+    "nombre": "TESTA COMBUSTIBLES SRL (SALTO RUTA 32)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1542,
+    "nombre": "GNC BALCARCE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1543,
+    "nombre": "SUC FREITAS DE CARVALHO SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1544,
+    "nombre": "DON ALFREDO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1545,
+    "nombre": "COMERCIAL CHACABUCO SA ( AV PTE NICOLAS AVELLANEDA 4509)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1546,
+    "nombre": "COMERCIAL CHACABUCO SA (J R VIDAL 2310)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1547,
+    "nombre": "ADOLFO MAXIMINO COMAN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1548,
+    "nombre": "EST DE SERV 25 DE MAYO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1549,
+    "nombre": "ONSAYBEL SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1550,
+    "nombre": "ESTACION PARANA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1551,
+    "nombre": "SBS OIL SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1552,
+    "nombre": "NELSO SA (MOSCONI)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1553,
+    "nombre": "NELSO SA (AGUSTIN GARZON)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1554,
+    "nombre": "MANDOLA HERMANOS SA (ESCOBAR)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1555,
+    "nombre": "MINIMERCADO LOMA VERDE SRL (LOMA VERDE)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1556,
+    "nombre": "TONNA SA (MERLO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1557,
+    "nombre": "TONNA SA (ITUZAINGO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1558,
+    "nombre": "SAN MARINO NAFTA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1559,
+    "nombre": "QUION SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1560,
+    "nombre": "ESTACION PATRIA SA (AV PATRIA 1130 - SHELL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1561,
+    "nombre": "ESTACION PATRIA SA (AV ARTURO CAPDEVILA 598 - GULF)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1562,
+    "nombre": "AUGUET JORGE OMAR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1563,
+    "nombre": "CUBA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1564,
+    "nombre": "ROPER SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1565,
+    "nombre": "ESAC MONTE BUEY SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1566,
+    "nombre": "LUZARDO HNOS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1567,
+    "nombre": "DISTRIBEN SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1568,
+    "nombre": "RTR SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1569,
+    "nombre": "PIAZZA NAVONA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1570,
+    "nombre": "VASA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1571,
+    "nombre": "LOPEZ ALBERTO ANGEL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1572,
+    "nombre": "HGB SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1573,
+    "nombre": "EST DE SERV PANAMERICANA SRL  (HGB)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1574,
+    "nombre": "HGB SA (MALVINAS ARGENTINA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1575,
+    "nombre": "QUATRO ENERGIA SAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1576,
+    "nombre": "CENTRO COMBUSTIBLE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1577,
+    "nombre": "ARAMENDI JUAN RAMON",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1578,
+    "nombre": "FEDAL SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1579,
+    "nombre": "ZEN SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1580,
+    "nombre": "GOMILA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1581,
+    "nombre": "ELISABET CIPOLATTI DE CANEPA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1582,
+    "nombre": "RAIMON SRL (SOLANO VERA) (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1583,
+    "nombre": "RAIMON SRL (ALEM)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1584,
+    "nombre": "RAIMON SRL (MDL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1585,
+    "nombre": "RAIMON SRL (SOLANO VERA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1586,
+    "nombre": "RAIMON SRL (ROCA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1587,
+    "nombre": "KM 1107 SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1588,
+    "nombre": "MACIA JOSE RAMON",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1589,
+    "nombre": "RODSTATION SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1590,
+    "nombre": "ALVESTAS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1591,
+    "nombre": "MARCOS PAZ GNC SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1592,
+    "nombre": "GNC CAMPANA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1593,
+    "nombre": "RODTEAM SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1594,
+    "nombre": "CARMEN ROSA ROMANO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1595,
+    "nombre": "SANTIAGO MASSON SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1596,
+    "nombre": "HERZOG SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1597,
+    "nombre": "ROLGUI SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1598,
+    "nombre": "IMPIERI PIÑEIRO RIZZO Y ASOC. SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1599,
+    "nombre": "EST. DE SERV. ALCOVER SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1600,
+    "nombre": "KLIVE SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1601,
+    "nombre": "CARTUJA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1602,
+    "nombre": "PAGANI SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1603,
+    "nombre": "PEQUEÑOS PLACERES (TERRA MALVA - CALLE ROQUE SAENZ PEÑA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1604,
+    "nombre": "AUSO SRL - AUGUSTO SOPELZA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1605,
+    "nombre": "FRANCISCO MONTIEL SACAFI (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1606,
+    "nombre": "FRANCISCO MONTIEL SACAFI ( BELGRANO N70)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1607,
+    "nombre": "FRANCISCO MONTIEL SACAFI ( AV. SOBERANIA NACIONAL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1608,
+    "nombre": "ARROYO LUIS ALBERTO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1609,
+    "nombre": "SALVAPETROL COMBUSTIBLES SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1610,
+    "nombre": "KALPAT SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1611,
+    "nombre": "RUTA 54 SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1612,
+    "nombre": "25 ALVEAR SRL (PARG 25 DE MAYO - BACK OFFICE)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1613,
+    "nombre": "VILLAFUEL SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1614,
+    "nombre": "TARTARA Y BAINOTTI SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1615,
+    "nombre": "COMBUSTIBLES BOULEVARD 72 SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1616,
+    "nombre": "PROEXCEL SA - DON TORCUATO - M T ALVEAR 3063",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1617,
+    "nombre": "EST DE SERV SANTA TERESITA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1618,
+    "nombre": "BOZ ALBERTO (SANTA FE)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1619,
+    "nombre": "BOZ ALBERTO Y VIGLIANO (CORONDA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1620,
+    "nombre": "LA EXCELENCIA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1621,
+    "nombre": "ESER RIVADAVIA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1622,
+    "nombre": "AUTO STAR SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1623,
+    "nombre": "FABIAN MARCELO PRIVITERA L108 (EX L03 KIOSCOS YES)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1624,
+    "nombre": "GAMVER GAS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1625,
+    "nombre": "COMBUSTIBLES EL RODEO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1626,
+    "nombre": "MUCHAY SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1627,
+    "nombre": "BARBERO SANTIAGO Y HECTOR SH (ESTACION PHILIPPS)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1628,
+    "nombre": "HACHI SRL (ESTACION JUNIN CENTRO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1629,
+    "nombre": "QUINTIN R SIONE E HIJOS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1630,
+    "nombre": "MEIRA  Y HERMANOS SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1631,
+    "nombre": "KIOSCOS YES L109 - SAN MARTIN 1197 -  BARCAGLIONI CHANTA LEONARDO AUGUSTO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1632,
+    "nombre": "COMBUSTIBLES DAHEDA BERAZATEGUI SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1633,
+    "nombre": "HUGO MENDIETA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1634,
+    "nombre": "EST DE SERV SAN MATEO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1635,
+    "nombre": "ZABALETA Y MONTAÑO SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1636,
+    "nombre": "COMBUSTIBLES MAGDALENA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1637,
+    "nombre": "EST DE SERV LA NORIA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1638,
+    "nombre": "SAN MIGUEL SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1639,
+    "nombre": "GAS FE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1640,
+    "nombre": "TORE SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1641,
+    "nombre": "GOMCOM SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1642,
+    "nombre": "VALLOSCURO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1643,
+    "nombre": "12 DE OCTUBRE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1644,
+    "nombre": "HERSOL COMBUSTIBLES SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1645,
+    "nombre": "LOMAS DE ESCOBAR PETROLEO SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1646,
+    "nombre": "LOPEMAS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1647,
+    "nombre": "SOLICAN SA - B90 SOL TALLER",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1648,
+    "nombre": "SOLICAN SA - B91 LA TIENDA TALLER",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1649,
+    "nombre": "MIGUEL A SEFCHEK E HIJO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1650,
+    "nombre": "SEVEN SAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1651,
+    "nombre": "TOSELLI HNOS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1652,
+    "nombre": "DIAGONAL DON BOSCO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1653,
+    "nombre": "GNC PERON SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1654,
+    "nombre": "GNC TROPEZON SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1655,
+    "nombre": "ESTACION FRATELLI SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1656,
+    "nombre": "GNC TORTUGAS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1657,
+    "nombre": "ENAUSA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1658,
+    "nombre": "LISTIN SA (CEVERO DEL CASTILLO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1659,
+    "nombre": "NORA ADRIANA SANDRA Y MARIO MAROÑO SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1660,
+    "nombre": "MOSCON SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1661,
+    "nombre": "RATTA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1662,
+    "nombre": "COMBUSTIBLES LA COLONIA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1663,
+    "nombre": "DARSISA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1664,
+    "nombre": "REINERI NICOLAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1665,
+    "nombre": "VASISHTHA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1666,
+    "nombre": "LUCAM S.A. (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1667,
+    "nombre": "TIERRA DE OPORTUNIDADES S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1668,
+    "nombre": "ESTACION PARANA S.A (TIGRE)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1669,
+    "nombre": "FUEL Y TRUCK SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1670,
+    "nombre": "MAXFA SA (DISTRIBUIDOR SAN JUAN)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1671,
+    "nombre": "MUNICIPALIDAD DE SANTA ISABEL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1672,
+    "nombre": "EINER SUR SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1673,
+    "nombre": "LIZZI JORGE OSVALDO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1674,
+    "nombre": "YPF JUAN ENRIQUE JARA - APIES 1435",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1675,
+    "nombre": "SERVICENTRO LOS VALLES SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1676,
+    "nombre": "SERVICENTRO LOS VALLES SRL - ( LA ANGOSTURA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1677,
+    "nombre": "FENIX ENERGIA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1678,
+    "nombre": "BOZ ALBERTO (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1679,
+    "nombre": "ESTACION SAN CAYETANO DEL OESTE S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1680,
+    "nombre": "SOLMAY SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1681,
+    "nombre": "ESTACION CENTRAL SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1682,
+    "nombre": "JEMAGAS SAS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1683,
+    "nombre": "CASTELLARIN EDUARDO Y JUAN S.H",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1684,
+    "nombre": "QUITRAL COM SA - QUILME MITRE 1199",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1685,
+    "nombre": "QUITRAL COM SA - BERNAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1686,
+    "nombre": "QUITRAL COM SA - FLORENCIO VARELA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1687,
+    "nombre": "KOMMER PABLO ENRIQUE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1688,
+    "nombre": "ESTACION DE SERV EL ALBA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1689,
+    "nombre": "BURGI OMAR RAUL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1690,
+    "nombre": "BULUC LAMAT SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1691,
+    "nombre": "ARATA AUTOMOTORES SCA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1692,
+    "nombre": "BELTRAMO PEDRO PABLO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1693,
+    "nombre": "GARIN COMBUSTIBLES S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1694,
+    "nombre": "A SILVETTI Y CIA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1695,
+    "nombre": "ACA CHUBUT COLONIA SARMIENTO (RUTA 20 SRL) - TIENDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1696,
+    "nombre": "GARCIA EDUARDO ALFREDO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1697,
+    "nombre": "BARREIRO GLORIA Y BARREIRO ABEL - APIES 1433",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1698,
+    "nombre": "GEOTRANS S.A.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1699,
+    "nombre": "G.BELL SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1700,
+    "nombre": "JACQUELIN Y CARIGNANO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1701,
+    "nombre": "SUCESION FERNANDO J. AVILA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1702,
+    "nombre": "TRISTAN COMBUSTIBLES SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1703,
+    "nombre": "PEDIFE S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1704,
+    "nombre": "COMBUSTIBLES DANIELE SA - LUQUE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1705,
+    "nombre": "COMBUSTIBLES DANIELE SA - CALCHIN OESTE",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1706,
+    "nombre": "EL SALVADOR (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1707,
+    "nombre": "KIOSCOS YES L110 - ALEM 415 - ASTUDILLO PABLO HECTOR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1708,
+    "nombre": "PEREZ CARMEN BEATRIZ",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1709,
+    "nombre": "ACA PALERMO (GEAVAL SRL)  - TIENDA + EXPO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1710,
+    "nombre": "JEMAGAS SAS (JESUS MARIA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1711,
+    "nombre": "JEMAGAS SAS (JESUS MARIA - PEDRO J.FRIAS 1056 )",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1712,
+    "nombre": "MIGUEL ANGEL VALENCIA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1713,
+    "nombre": "LISTIN SA GUAYMALLEN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1714,
+    "nombre": "ANAYVE SAS - L11 (VACA NEGRA - CHACRA DE CORIAS)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1715,
+    "nombre": "SOCIEDAD SANTA MARIA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1716,
+    "nombre": "BUSSO BETINA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1717,
+    "nombre": "SANTA VICTORIA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1718,
+    "nombre": "HUGO JOSE MIJOEVICH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1719,
+    "nombre": "LOLAPALUZA SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1720,
+    "nombre": "DECAFIP SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1721,
+    "nombre": "EL PARQUE SOCIEDAD COMERCIAL COLECTIVA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1722,
+    "nombre": "CIA PETROLERA PALPALA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1723,
+    "nombre": "PETROLERA ANVA SRL (SAN MIGUEL DE TUCUMAN)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1724,
+    "nombre": "GRIFFA HNOS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1725,
+    "nombre": "EDUARDO ALBERTO ANGIOLINI",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1726,
+    "nombre": "LENARDON SILVINO FELIX",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1727,
+    "nombre": "KIOSCOS YES  L111 - RIOBAMBA 1038 - ONETO ELGUETA MARIANO AGUSTIN",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1728,
+    "nombre": "FERNANADEZ RAUL OSCAR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1729,
+    "nombre": "ANAYVE SAS -  (ITALIA 401)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1730,
+    "nombre": "AM GAS S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1731,
+    "nombre": "NATALIO MOSSELLO E HIJOS S.H",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1732,
+    "nombre": "LUCIANI HNOS",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1733,
+    "nombre": "SOLICAN SA - B11 BARRACAS 2",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1734,
+    "nombre": "PETAL SERVICIOS PETROLEROS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1735,
+    "nombre": "SUCESION DE MANCINELLI BRUNO ALEJANDRO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1736,
+    "nombre": "ELIDA SANOGUERA DE VIDAL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1737,
+    "nombre": "ACA DOLORES (PUNTO MEDIO 210 SRL) - TIENDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1738,
+    "nombre": "ACA MAR DEL PLATA COLON (SGD SA) - TIENDA + EXPO",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1739,
+    "nombre": "ACA RUFINO (LADO SUR SA) - TIENDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1740,
+    "nombre": "ACA VENADO TUERTO (EL HONRADO) - TIENDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1741,
+    "nombre": "ACA CORDOBA (CENTRO - ZAREK) - TIENDA - APIES 2144",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1742,
+    "nombre": "ACA GUALEGUAYCHU  (GREENER SA) - TIENDA + BOXES",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1743,
+    "nombre": "ACA COLONIA 25 DE MAYO (SERVICIOS SRL) - TIENDA - APIES 1544",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1744,
+    "nombre": "LA ROTONDA SAS - ALTA GRACIA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1745,
+    "nombre": "KIOSCOS YES L112 - LAOS TUNES AGUSTINA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1746,
+    "nombre": "LA VELOZ DE LOS ANDES S.A",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1747,
+    "nombre": "RAMIREZ FELISA EUSEBIA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1748,
+    "nombre": "RONCHI MARIO CESAR",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1749,
+    "nombre": "JUTE SRL (SUNCHO CORRAL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1750,
+    "nombre": "HERRERA RUBEN NEDER",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1751,
+    "nombre": "ACA TUCUMAN (ARRIETA SERVICIOS SRL) - TIENDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1752,
+    "nombre": "AUTOSUR RIO GRANDE S.A - NESTOR AGUILA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1753,
+    "nombre": "ABDALA HERMANOS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1754,
+    "nombre": "LIDER COMBUSTIBLES SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1755,
+    "nombre": "VULPIANI SA - (PLAYA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1756,
+    "nombre": "BERTOLLO E.,DUARTE J. Y ASOC. S.H.",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1757,
+    "nombre": "GUEVARA CARLOS ROBERTO Y OROZCO EDUARDO DANIEL S",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1758,
+    "nombre": "PABLO G. SANCHEZ (SILLERO TUNUYAN SHOP)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1759,
+    "nombre": "FATIMA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1760,
+    "nombre": "LA CUARTA SA (EX OPESSA) - APIES 2060",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1761,
+    "nombre": "VULPIANI SA -  (BOXES)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1762,
+    "nombre": "VULPIANI SA - (FULL)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1763,
+    "nombre": "SERVINORTE LOS NIETOS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1764,
+    "nombre": "SURTIDORES LOS NIETOS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1765,
+    "nombre": "COOPERATIVA AGROPECUARIA DE LOPEZ LTDA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1766,
+    "nombre": "ICARDI Y BREZZO SH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1767,
+    "nombre": "LA TORRE SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1768,
+    "nombre": "SANTO TOMAS SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1769,
+    "nombre": "SAN MIGUEL SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1770,
+    "nombre": "ESTACION DE SERVICIO SHELL SAN GUILLERMO SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1771,
+    "nombre": "GYR ENERGIA SRL",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1772,
+    "nombre": "ACA CIPOLETTI (MUGARRI SRL) - TIENDA - APIES 1536",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1773,
+    "nombre": "ALBERTO CROSETTI (HO)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1774,
+    "nombre": "COMBUSTIBLES Y LUBRICANTES RANELAGH",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1775,
+    "nombre": "COMBUSTIBLES DI GIORGIO HERMANOS SA",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1776,
+    "nombre": "PETROFRIAS SRL (PTE. DE LA PLAZA)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1777,
+    "nombre": "PETROFRIAS SRL (SAN MARTIN ESQ. JUJUY)",
+    "ultimaActualizacion": ""
+  },
+  {
+    "codigoCliente": 1778,
+    "nombre": "SERGIO ANIBAL ALBERTO",
+    "ultimaActualizacion": ""
+  }
+]
