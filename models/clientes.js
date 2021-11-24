@@ -4,7 +4,8 @@ const schema = mongoose.Schema({
   "codigoCliente": "",
   "nombre": "",
   "ultimaActualizacion": Date,
-  "functionalUltimaActualizacion": ""
+  "funcionalUltimaActualizacion": "",
+  "datosExtendidos": {}
 });
 
 

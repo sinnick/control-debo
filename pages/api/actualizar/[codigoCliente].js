@@ -11,24 +11,16 @@ export default async (req, res)=>  {
       case 'PUT':
         console.log('body',req.body)
           try {
-          //   let resultado = await Cliente.findOneAndUpdate({codigoCliente: parseInt(codigoCliente)},
-          //   {ultimaActualizacion: new Date(),
-          //   functionalUltimaActualizacion: id_usuario,
-          //   })
-          // console.log('resultado',resultado) 
-          // // resultado.save()
-          // res.status(200).json({ success: true, data: resultado })
-          let doc = await Cliente.findOne({codigoCliente: parseInt(codigoCliente)})
-          
-          doc.overwrite({
-            _id: doc._id,
-            codigoCliente: doc.codigoCliente,
-            nombre: doc.nombre,
-            ultimaActualizacion: new Date(),
-            functionalUltimaActualizacion: id_usuario
-          })
-        
-          res.status(200).json({ success: true, data: doc })
+            let resultado = await Cliente.findOneAndUpdate({codigoCliente: parseInt(codigoCliente)},
+            {ultimaActualizacion: new Date(),
+            funcionalUltimaActualizacion: req.body.id_usuario,
+            datosExtendidos: {
+                esypf : "mentira"
+              }
+            }, {new: true})
+
+          console.log('resultado', resultado) 
+          res.status(200).json({ success: true})
           
           
         } catch (error) {
