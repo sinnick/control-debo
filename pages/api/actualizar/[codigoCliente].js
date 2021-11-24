@@ -9,20 +9,17 @@ export default async (req, res)=>  {
   
     switch (method) {
       case 'PUT':
-        console.log('body',req.body)
-          try {
-            let resultado = await Cliente.findOneAndUpdate({codigoCliente: parseInt(codigoCliente)},
-            {ultimaActualizacion: new Date(),
-            funcionalUltimaActualizacion: req.body.id_usuario,
-            datosExtendidos: {
-                esypf : "mentira"
-              }
-            }, {new: true})
-
+        console.log('body: ', req.body)
+        let filter = {codigoCliente: parseInt(codigoCliente)}
+        let update = {ultimaActualizacion: new Date(), funcionalUltimaActualizacion: req.body.id_usuario}
+        
+        console.log('filter', filter)
+        console.log('update', update)
+        
+        try {
+          let resultado = await Cliente.findOneAndUpdate(filter,update, {new: true})
           console.log('resultado', resultado) 
-          res.status(200).json({ success: true})
-          
-          
+          res.status(200).json({ success: true, resultado })
         } catch (error) {
           res.status(400).json({ success: false })
           console.log(error)
